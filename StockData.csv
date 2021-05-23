@@ -1,0 +1,1001 @@
+id,Sector,Symb,StockMarket,StockName,ip_address,app_name,currency,ISBN,Amount
+1,Energy,PXD,NYSE,Pioneer Natural Resources Company,30.113.158.203,Solarbreeze,WST,299876486-X,$7.09
+2,n/a,RPAI^A,NYSE,"Retail Properties of America, Inc.",121.12.128.109,Tampflex,IDR,376619645-6,$5.64
+3,Finance,VALU,NASDAQ,"Value Line, Inc.",57.195.49.40,Quo Lux,SEK,492724966-2,$8.84
+4,Finance,PBHC,NASDAQ,"Pathfinder Bancorp, Inc.",61.9.187.195,Tempsoft,RUB,301649403-5,$7.82
+5,Consumer Services,SJR,NYSE,Shaw Communications Inc.,0.230.200.2,Holdlamis,PHP,721099189-1,$8.34
+6,Energy,ROSEW,NASDAQ,Rosehill Resources Inc.,92.163.125.87,Aerified,PHP,671656032-7,$6.70
+7,Consumer Services,WHLR,NASDAQ,"Wheeler Real Estate Investment Trust, Inc.",117.235.235.35,Hatity,IDR,010507172-2,$5.30
+8,Miscellaneous,TAX,NASDAQ,"Liberty Tax, Inc.",4.165.158.137,Lotstring,BDT,995353769-0,$8.40
+9,Miscellaneous,STMP,NASDAQ,Stamps.com Inc.,64.198.60.58,Stringtough,PEN,131224771-1,$3.33
+10,Energy,ROSEU,NASDAQ,Rosehill Resources Inc.,217.4.89.97,Overhold,IDR,667388537-8,$1.01
+11,Public Utilities,NRG,NYSE,"NRG Energy, Inc.",132.2.72.107,Tresom,SEK,027664467-0,$9.69
+12,Consumer Services,STKL,NASDAQ,"SunOpta, Inc.",83.73.171.152,Stronghold,CNY,771691021-3,$6.44
+13,Consumer Services,SHAK,NYSE,"Shake Shack, Inc.",155.133.219.198,Holdlamis,IDR,396008765-9,$7.76
+14,Capital Goods,NWHM,NYSE,New Home Company Inc. (The),122.134.57.150,Domainer,NGN,205707216-9,$9.70
+15,Basic Industries,SXC,NYSE,"SunCoke Energy, Inc.",110.157.27.155,Tin,SEK,966780057-1,$6.76
+16,Finance,ZIV,NASDAQ,VelocityShares Daily Inverse VIX Medium-Term ETN,101.22.249.96,Bytecard,XPF,144098566-9,$7.53
+17,Technology,ATHM,NYSE,Autohome Inc.,22.42.228.148,Viva,IDR,105605818-8,$5.46
+18,Consumer Services,APDNW,NASDAQ,Applied DNA Sciences Inc,153.246.77.227,Ronstring,BRL,256159618-4,$3.58
+19,n/a,AIB,NYSE,Apollo Investment Corporation,219.243.120.117,Viva,CNY,685382761-9,$3.42
+20,Public Utilities,CNP,NYSE,"CenterPoint Energy, Inc.",144.92.69.238,Asoka,IDR,667276787-8,$6.87
+21,Transportation,PAC,NYSE,"Grupo Aeroportuario Del Pacifico, S.A. de C.V.",117.173.21.82,Tin,AZN,708224045-7,$2.50
+22,Technology,TSRI,NASDAQ,"TSR, Inc.",160.82.188.248,Cardguard,CNY,067000969-5,$2.59
+23,Health Care,PETS,NASDAQ,"PetMed Express, Inc.",86.231.72.188,Redhold,CNY,363537264-1,$2.25
+24,Basic Industries,ATI,NYSE,Allegheny Technologies Incorporated,168.12.191.40,Stringtough,EUR,028038115-8,$9.78
+25,Finance,HBANN,NASDAQ,Huntington Bancshares Incorporated,232.193.77.248,Voyatouch,IDR,169107047-5,$1.35
+26,n/a,NEE^K,NYSE,"NextEra Energy, Inc.",122.92.39.15,Lotstring,IDR,924374623-5,$1.15
+27,n/a,GUT,NYSE,Gabelli Utility Trust (The),202.205.71.207,Home Ing,RSD,524160429-4,$1.12
+28,Finance,ONDK,NYSE,"On Deck Capital, Inc.",96.169.41.205,Tres-Zap,THB,127556062-8,$1.98
+29,Technology,MTSI,NASDAQ,"MACOM Technology Solutions Holdings, Inc.",128.229.134.227,Bitchip,USD,890416179-7,$8.57
+30,n/a,FLC,NYSE,Flaherty & Crumrine Total Return Fund Inc,169.2.74.157,Y-Solowarm,SEK,056388540-8,$3.36
+31,n/a,AWF,NYSE,Alliance World Dollar Government Fund II,224.110.107.161,Voltsillam,IDR,424523251-X,$8.56
+32,Technology,TTEC,NASDAQ,"TeleTech Holdings, Inc.",237.117.183.60,Domainer,JPY,516655406-X,$4.62
+33,Energy,ALJ,NYSE,"Alon USA Energy, Inc.",217.160.228.40,Duobam,IDR,837653099-2,$5.50
+34,Finance,ONB,NASDAQ,Old National Bancorp,73.172.29.97,Rank,CNY,657850409-5,$2.87
+35,Capital Goods,MBUU,NASDAQ,"Malibu Boats, Inc.",182.254.191.77,Otcom,EUR,382830195-9,$9.89
+36,Consumer Services,EMMS,NASDAQ,Emmis Communications Corporation,68.204.129.202,Subin,CNY,816371401-8,$1.56
+37,n/a,IFEU,NASDAQ,iShares FTSE EPRA/NAREIT Europe Index Fund,202.245.137.55,Flexidy,UAH,304755036-0,$9.65
+38,Consumer Durables,CWH,NYSE,"Camping World Holdings, Inc.",146.250.218.8,Andalax,NGN,490113589-9,$2.03
+39,Consumer Services,INSW,NYSE,"International Seaways, Inc.",196.199.30.140,Flexidy,ARS,232826679-7,$3.10
+40,Finance,AMSF,NASDAQ,"AMERISAFE, Inc.",233.13.0.33,Lotlux,CNY,689899216-3,$9.60
+41,Finance,AON,NYSE,Aon plc,103.95.150.80,Aerified,NGN,964463171-4,$8.52
+42,Consumer Non-Durables,KORS,NYSE,Michael Kors Holdings Limited,191.156.160.214,Cookley,PHP,529347960-1,$2.75
+43,Health Care,CLDX,NASDAQ,"Celldex Therapeutics, Inc.",122.172.212.46,Stim,ZWL,964691443-8,$1.64
+44,n/a,GLOG^A,NYSE,GasLog LP.,89.2.166.95,Otcom,RUB,566055938-7,$2.68
+45,Basic Industries,MTZ,NYSE,"MasTec, Inc.",207.35.227.24,Zaam-Dox,BRL,670427091-4,$3.57
+46,n/a,FINX,NASDAQ,Global X FinTech ETF,128.223.239.135,Sonair,EUR,099318596-7,$5.33
+47,Miscellaneous,MA,NYSE,Mastercard Incorporated,175.172.102.64,Greenlam,EUR,828576083-9,$9.81
+48,Finance,WF,NYSE,Woori Bank,185.164.137.198,Gembucket,CNY,789645333-9,$0.54
+49,Capital Goods,F,NYSE,Ford Motor Company,220.179.19.73,Fix San,CZK,318423045-7,$3.40
+50,n/a,EWZS,NASDAQ,iShares MSCI Brazil Small-Cap ETF,94.135.141.129,Biodex,EUR,807016183-3,$6.77
+51,Consumer Services,TRNC,NASDAQ,"tronc, Inc.",110.186.92.82,Temp,CNY,842043170-2,$4.02
+52,n/a,PCQ,NYSE,PIMCO California Municipal Income Fund,75.147.242.38,Kanlam,KRW,176849010-4,$5.04
+53,n/a,PME,NASDAQ,Pingtan Marine Enterprise Ltd.,20.32.182.51,Ventosanzap,BRL,693831828-X,$1.32
+54,Technology,CAMP,NASDAQ,CalAmp Corp.,85.105.86.18,Stim,THB,299135180-2,$0.48
+55,Health Care,RAD,NYSE,Rite Aid Corporation,161.82.222.68,Mat Lam Tam,PHP,197870534-4,$4.48
+56,n/a,USB^M,NYSE,U.S. Bancorp,178.129.53.67,Lotstring,CAD,933830172-9,$5.87
+57,n/a,TGP^A,NYSE,Teekay LNG Partners L.P.,157.104.89.103,Aerified,EUR,866513045-4,$5.19
+58,Consumer Services,MRT,NYSE,"MedEquities Realty Trust, Inc.",62.221.189.197,Otcom,PLN,211711679-5,$0.59
+59,Finance,MLP,NYSE,"Maui Land & Pineapple Company, Inc.",185.81.205.40,Konklab,IDR,446969802-4,$4.89
+60,Capital Goods,COHU,NASDAQ,"Cohu, Inc.",213.246.36.202,Pannier,PHP,423689578-1,$7.17
+61,Health Care,FMI,NASDAQ,"Foundation Medicine, Inc.",159.109.46.252,Zontrax,PHP,691915133-2,$9.40
+62,Consumer Services,EQR,NYSE,Equity Residential,20.70.9.171,Stim,EUR,674990774-1,$9.71
+63,Health Care,HSIC,NASDAQ,"Henry Schein, Inc.",227.210.230.205,Zathin,ETB,547435042-2,$8.49
+64,Energy,HLX,NYSE,"Helix Energy Solutions Group, Inc.",23.150.80.0,Span,EUR,774383504-9,$1.70
+65,Finance,TCBK,NASDAQ,TriCo Bancshares,1.203.174.163,Biodex,RUB,868049340-6,$9.52
+66,Finance,CIVBP,NASDAQ,"Civista Bancshares, Inc. ",55.253.37.196,Lotstring,RUB,665946883-8,$7.23
+67,Health Care,DRIOW,NASDAQ,DarioHealth Corp.,139.12.94.211,Sonair,CNY,311381195-3,$1.76
+68,Consumer Services,MORE          ,NYSE,"Monogram Residential Trust, Inc.",11.140.245.53,Biodex,CNY,265485310-1,$4.45
+69,Health Care,DRIOW,NASDAQ,DarioHealth Corp.,63.84.4.241,Viva,THB,527737350-0,$7.41
+70,Finance,WAFDW,NASDAQ,"Washington Federal, Inc.",200.84.152.155,Voltsillam,UAH,947303574-8,$2.43
+71,n/a,NTG,NYSE,"Tortoise MLP Fund, Inc.",12.66.192.201,Alphazap,ALL,540319877-6,$6.98
+72,Miscellaneous,FICO,NYSE,Fair Isaac Corporation,131.3.6.211,Keylex,EUR,411141072-3,$3.09
+73,Finance,BANF,NASDAQ,BancFirst Corporation,238.53.138.184,Keylex,SEK,906913168-4,$4.08
+74,Miscellaneous,USAT,NASDAQ,"USA Technologies, Inc.",192.226.164.130,Hatity,IDR,260175426-5,$1.56
+75,Technology,CRTO,NASDAQ,Criteo S.A.,45.48.83.111,Quo Lux,UAH,834247861-0,$3.66
+76,Basic Industries,OCC,NASDAQ,Optical Cable Corporation,10.72.155.222,Voltsillam,ARS,657690539-4,$9.46
+77,Technology,ALLT,NASDAQ,Allot Communications Ltd.,230.234.15.57,Namfix,IDR,750629867-8,$0.02
+78,Health Care,NVET,NASDAQ,Nexvet Biopharma plc,1.181.12.138,Bigtax,EUR,507001952-X,$4.62
+79,Energy,CNQ,NYSE,Canadian Natural Resources Limited,238.24.150.56,It,CNY,388774923-5,$3.33
+80,n/a,CIM^B,NYSE,Chimera Investment Corporation,186.193.250.88,Otcom,CNY,029433137-9,$5.39
+81,n/a,QQQ,NASDAQ,"PowerShares QQQ Trust, Series 1",77.196.28.202,Tin,XPF,118190223-1,$5.31
+82,Consumer Services,DS,NYSE,Drive Shack Inc.,33.61.229.168,Aerified,RUB,287010788-9,$1.09
+83,n/a,HYZD,NASDAQ,WisdomTree Interest Rate Hedged High Yield Bond Fund,217.184.71.247,Kanlam,EUR,363864726-9,$7.56
+84,n/a,IBUY,NASDAQ,Amplify Online Retail ETF,214.215.192.254,Greenlam,CNY,943588461-X,$0.27
+85,Capital Goods,GNTX,NASDAQ,Gentex Corporation,253.118.186.133,Regrant,IDR,884753722-3,$8.04
+86,Health Care,HYH,NYSE,"Halyard Health, Inc.",93.144.28.252,Keylex,CNY,318733990-5,$2.63
+87,Consumer Services,IT,NYSE,"Gartner, Inc.",4.20.169.52,Alphazap,IDR,777701426-9,$8.72
+88,Energy,PSXP,NYSE,Phillips 66 Partners LP,182.144.115.253,Flowdesk,SEK,931656412-3,$9.33
+89,n/a,CHY,NASDAQ,Calamos Convertible and High Income Fund,58.37.85.236,Tampflex,EUR,687236375-4,$2.84
+90,Consumer Non-Durables,RELY,NASDAQ,"Real Industry, Inc. ",166.200.47.59,Y-Solowarm,IDR,731894213-1,$9.79
+91,Finance,CHFN,NASDAQ,Charter Financial Corp.,44.228.190.147,Ronstring,SLL,690332590-5,$5.73
+92,Technology,TWLO,NYSE,Twilio Inc.,115.132.169.6,Regrant,JPY,331600851-9,$5.13
+93,n/a,GDV^A,NYSE,Gabelli Dividend,239.90.123.217,Zathin,CNY,757211646-9,$1.76
+94,Health Care,FLXN,NASDAQ,"Flexion Therapeutics, Inc.",139.163.222.69,Bitwolf,KMF,816452084-5,$4.37
+95,Finance,GDOT,NYSE,Green Dot Corporation,113.81.102.188,Namfix,PLN,431158371-0,$1.17
+96,n/a,TMK^C,NYSE,Torchmark Corporation,117.52.39.202,Stronghold,CRC,352417859-6,$8.05
+97,Consumer Services,AIV,NYSE,Apartment Investment and Management Company,62.76.187.70,Bigtax,PLN,635761607-9,$8.89
+98,Health Care,FVE,NASDAQ,Five Star Senior Living Inc.,108.159.0.228,Solarbreeze,USD,936518050-3,$0.42
+99,n/a,DDF,NYSE,"Delaware Investments Dividend & Income Fund, Inc.",149.21.164.57,Job,EUR,602873534-5,$2.06
+100,Consumer Services,DFRG,NASDAQ,"Del Frisco's Restaurant Group, Inc.",122.179.33.249,Otcom,EUR,490028660-5,$7.48
+101,Technology,ELLI,NYSE,"Ellie Mae, Inc.",138.206.26.12,Redhold,EUR,213650005-8,$3.98
+102,n/a,UMH^B,NYSE,"UMH Properties, Inc.",133.235.13.241,Ventosanzap,USD,850649963-1,$3.05
+103,Basic Industries,TORM          ,NASDAQ,TOR Minerals International Inc,179.93.184.163,Cardguard,CNY,622794914-0,$5.63
+104,Health Care,AXGN,NASDAQ,"AxoGen, Inc.",18.143.238.172,Ronstring,CZK,261385060-4,$7.76
+105,n/a,MCN,NYSE,Madison Covered Call & Equity Strategy Fund,145.241.232.145,Veribet,TWD,576838032-9,$1.04
+106,n/a,RNR^C,NYSE,RenaissanceRe Holdings Ltd.,79.88.194.151,Tresom,PEN,381987358-9,$1.88
+107,Finance,MLVF,NASDAQ,"Malvern Bancorp, Inc.",240.23.10.58,Alphazap,JPY,749223153-9,$4.82
+108,Consumer Services,CTRN,NASDAQ,"Citi Trends, Inc.",6.224.91.157,Bytecard,CNY,370843374-2,$4.13
+109,Miscellaneous,SGRP,NASDAQ,"SPAR Group, Inc.",201.221.186.150,Matsoft,CRC,018323805-2,$5.72
+110,n/a,TSLX,NYSE,"TPG Specialty Lending, Inc.",14.249.99.74,Overhold,CNY,827725724-4,$8.28
+111,Finance,SMBK,NASDAQ,"SmartFinancial, Inc.",199.250.36.242,Daltfresh,USD,304749338-3,$9.26
+112,n/a,ETB,NYSE,Eaton Vance Tax-Managed Buy-Write Income Fund,91.233.45.100,Toughjoyfax,BRL,196401848-X,$3.31
+113,Consumer Services,SPLS,NASDAQ,"Staples, Inc.",136.231.54.194,Subin,CNY,098724191-5,$5.07
+114,Capital Goods,GIGA,NASDAQ,Giga-tronics Incorporated,114.34.201.39,Kanlam,BAM,590249692-6,$2.90
+115,Finance,NNI,NYSE,"Nelnet, Inc.",32.81.234.202,It,MAD,613734965-9,$3.30
+116,Technology,SEDG,NASDAQ,"SolarEdge Technologies, Inc.",159.68.219.80,Tempsoft,NZD,288018991-8,$0.17
+117,n/a,DBL,NYSE,DoubleLine Opportunistic Credit Fund,138.143.2.46,Zaam-Dox,PHP,878273978-1,$0.91
+118,Consumer Non-Durables,CHEF,NASDAQ,"The Chefs' Warehouse, Inc.",231.179.24.219,Y-find,JPY,890932104-0,$6.93
+119,n/a,MTB^C,NYSE,M&T Bank Corporation,118.145.43.111,Latlux,CNY,285185934-X,$9.50
+120,Technology,AAPL,NASDAQ,Apple Inc.,224.132.206.102,Prodder,CZK,154247298-9,$3.39
+121,n/a,PDBC,NASDAQ,PowerShares Optimum Yield Diversified Commodity Strategy No K-,103.61.181.97,Sonair,CZK,246923271-6,$6.75
+122,Health Care,NEPT,NASDAQ,Neptune Technologies & Bioresources Inc,240.119.121.42,Zamit,PHP,479096876-6,$0.90
+123,n/a,KEY^I,NYSE,KeyCorp,43.81.148.86,Ronstring,PHP,155196189-X,$6.81
+124,Technology,VMW,NYSE,"Vmware, Inc.",185.212.196.55,Wrapsafe,MYR,911105483-2,$4.11
+125,Consumer Durables,RUSHB,NASDAQ,"Rush Enterprises, Inc.",171.82.132.38,Regrant,PLN,229957808-0,$9.44
+126,Technology,NQ,NYSE,NQ Mobile Inc.,81.156.185.27,Quo Lux,IDR,907249603-5,$9.45
+127,Consumer Services,UMH,NYSE,"UMH Properties, Inc.",85.1.107.111,Y-find,UAH,373306305-8,$3.38
+128,Technology,ZPIN,NYSE,Zhaopin Limited,94.46.19.13,Y-find,MYR,837188270-X,$4.75
+129,Public Utilities,PCYO,NASDAQ,Pure Cycle Corporation,54.84.107.191,Greenlam,UAH,311962689-9,$5.24
+130,Energy,CPST,NASDAQ,Capstone Turbine Corporation,139.15.19.71,Bitwolf,MXN,386978302-8,$2.87
+131,Technology,NSP,NYSE,"Insperity, Inc.",41.160.82.33,Domainer,MMK,961747244-9,$3.12
+132,Consumer Services,IRS,NYSE,IRSA Inversiones Y Representaciones S.A.,94.129.239.134,Konklux,NGN,928411087-4,$6.65
+133,Health Care,VNDA,NASDAQ,Vanda Pharmaceuticals Inc.,235.68.67.135,It,PHP,181628652-4,$3.52
+134,Public Utilities,CMS,NYSE,CMS Energy Corporation,105.44.237.152,Daltfresh,CNY,935681526-7,$0.67
+135,Consumer Services,PLYAW,NASDAQ,Playa Hotels & Resorts N.V.,242.9.45.195,Fix San,IDR,927560586-6,$0.47
+136,Technology,CCMP,NASDAQ,Cabot Microelectronics Corporation,165.115.213.125,Y-find,ILS,123974996-1,$1.22
+137,n/a,SPE,NYSE,Special Opportunities Fund Inc.,173.226.186.39,Overhold,PYG,301876084-0,$7.83
+138,Health Care,MYOK,NASDAQ,"MyoKardia, Inc.",20.26.124.220,Treeflex,PEN,665307806-X,$5.15
+139,Capital Goods,BIO,NYSE,"Bio-Rad Laboratories, Inc.",11.246.204.164,Tin,CNY,299845715-0,$0.77
+140,n/a,FLN,NASDAQ,First Trust Latin America AlphaDEX Fund,138.69.237.214,Cardguard,BRL,695290544-8,$1.52
+141,n/a,FINQ,NASDAQ,Purefunds Solactive FinTech ETF,114.111.236.86,Holdlamis,RSD,181073354-5,$2.97
+142,n/a,PNF,NYSE,PIMCO New York Municipal Income Fund,43.5.230.246,Fintone,PHP,812659113-7,$5.27
+143,Technology,EVOL,NASDAQ,"Evolving Systems, Inc.",144.150.78.152,Cardify,CNY,575391155-2,$7.58
+144,Finance,ACGL,NASDAQ,Arch Capital Group Ltd.,231.254.114.109,Biodex,CNY,182872864-0,$3.23
+145,Consumer Services,LPT,NYSE,Liberty Property Trust,214.49.35.221,Subin,LBP,766323937-7,$4.59
+146,Capital Goods,KEYS,NYSE,Keysight Technologies Inc.,240.169.171.152,Zamit,CNY,662834041-4,$7.68
+147,Consumer Services,SOHOM,NASDAQ,Sotherly Hotels LP,207.2.44.152,Ronstring,EUR,124842676-2,$5.53
+148,Consumer Services,LOPE,NASDAQ,"Grand Canyon Education, Inc.",36.237.204.29,Konklab,ILS,869999032-4,$0.90
+149,Finance,CSBK,NASDAQ,Clifton Bancorp Inc.,34.69.24.36,Ronstring,JPY,337794154-1,$0.09
+150,n/a,OLD,NASDAQ,The Long-Term Care ETF,86.91.154.182,Home Ing,CNY,997237107-7,$0.34
+151,Transportation,SBNB,NYSE,Scorpio Tankers Inc.,220.252.62.230,Alphazap,ZAR,854121954-2,$9.88
+152,Finance,BMRC,NASDAQ,Bank of Marin Bancorp,160.88.63.249,Wrapsafe,EUR,352035729-1,$3.63
+153,n/a,COF^D,NYSE,Capital One Financial Corporation,185.228.104.236,Greenlam,CNY,305596790-9,$6.27
+154,Finance,THGA,NYSE,"The Hanover Insurance Group, Inc.",91.39.213.112,Tampflex,KRW,905759152-9,$6.51
+155,Transportation,SWFT,NYSE,Swift Transportation Company,133.27.218.182,Cookley,IDR,160238343-X,$9.82
+156,Consumer Services,BH,NYSE,Biglari Holdings Inc.,208.69.92.60,Otcom,PEN,449990486-2,$5.17
+157,Health Care,XENT,NASDAQ,"Intersect ENT, Inc.",230.223.30.16,Keylex,PEN,002634161-1,$8.73
+158,Consumer Durables,GT,NASDAQ,The Goodyear Tire & Rubber Company,67.21.4.208,Y-find,CNY,495006161-5,$1.41
+159,n/a,MUE,NYSE,"Blackrock MuniHoldings Quality Fund II, Inc.",221.232.117.56,Span,PHP,272740052-7,$6.74
+160,Basic Industries,NP,NYSE,"Neenah Paper, Inc.",6.112.251.45,Fix San,CNY,790763614-0,$0.95
+161,Energy,MPC,NYSE,Marathon Petroleum Corporation,43.253.244.91,Biodex,CNY,139213869-8,$8.42
+162,Finance,BBDO,NYSE,Banco Bradesco Sa,187.151.36.89,Konklux,CNY,083552983-5,$6.31
+163,Basic Industries,AIN,NYSE,Albany International Corporation,9.107.245.57,Duobam,CNY,315451512-7,$8.53
+164,n/a,BTEC,NASDAQ,Principal Healthcare Innovators Index ETF,190.122.21.245,Solarbreeze,NIO,353366795-2,$6.45
+165,Finance,CPAAW,NASDAQ,Conyers Park Acquisition Corp.,134.63.19.34,Latlux,XOF,848887127-9,$3.51
+166,Consumer Services,GOGL,NASDAQ,Golden Ocean Group Limited,202.41.153.219,Rank,GEL,884016682-3,$3.84
+167,Energy,GPOR,NASDAQ,Gulfport Energy Corporation,124.23.60.226,Flowdesk,BAM,888238130-7,$8.86
+168,Consumer Non-Durables,JVA,NASDAQ,"Coffee Holding Co., Inc.",212.23.231.220,Lotlux,CZK,432760693-6,$2.75
+169,Finance,OBAS,NASDAQ,Optibase Ltd.,116.30.229.38,Namfix,RUB,182888830-3,$6.59
+170,n/a,DFNL,NASDAQ,Davis Select Financial ETF,26.45.103.33,Y-Solowarm,EUR,611138343-4,$7.79
+171,Basic Industries,GRA,NYSE,W.R. Grace & Co.,34.104.61.194,Regrant,CNY,047599132-X,$6.48
+172,Technology,TZOO,NASDAQ,Travelzoo,189.238.212.182,Bitwolf,IDR,949940246-2,$9.93
+173,n/a,GGM,NYSE,Guggenheim Credit Allocation Fund,213.249.15.51,Stringtough,BYR,531898915-2,$5.51
+174,n/a,DEX,NYSE,Delaware Enhanced Global Dividend,181.204.55.115,Aerified,PAB,654188277-0,$7.80
+175,Finance,PYT,NYSE,PPlus Trust,216.48.80.235,Y-Solowarm,CNY,911066400-9,$0.32
+176,Consumer Services,COE,NYSE,China Online Education Group,19.225.197.16,Tempsoft,PHP,773899599-8,$2.04
+177,n/a,LDF,NYSE,"Latin American Discovery Fund, Inc. (The)",87.117.13.64,Bamity,EUR,745074302-7,$4.47
+178,Health Care,WMGIZ,NASDAQ,Wright Medical Group N.V.,169.226.155.22,Duobam,PLN,894114169-9,$7.80
+179,Technology,ERII,NASDAQ,"Energy Recovery, Inc.",82.197.46.140,Solarbreeze,PEN,460122064-5,$6.89
+180,Basic Industries,GURE,NASDAQ,"Gulf Resources, Inc.",25.111.183.15,Zamit,SEK,081898835-5,$9.80
+181,Finance,BUSE,NASDAQ,First Busey Corporation,123.28.146.178,Transcof,IDR,429795710-8,$3.03
+182,Finance,GTYH,NASDAQ,"GTY Technology Holdings, Inc.",167.13.179.212,It,SEK,998760928-7,$8.90
+183,Finance,WTFCM,NASDAQ,Wintrust Financial Corporation,177.66.207.42,It,RSD,458958113-2,$2.51
+184,Consumer Durables,MUSA,NYSE,Murphy USA Inc.,243.113.243.83,Voltsillam,AZN,853013182-7,$4.41
+185,Health Care,PRTO,NASDAQ,"Proteon Therapeutics, Inc.",178.4.57.28,Tempsoft,BRL,237764745-6,$7.78
+186,Basic Industries,GURE,NASDAQ,"Gulf Resources, Inc.",47.173.145.184,Zoolab,UGX,799157122-X,$4.12
+187,Technology,IMMR,NASDAQ,Immersion Corporation,25.198.10.241,Ventosanzap,COP,813022484-4,$9.70
+188,Capital Goods,TXT,NYSE,Textron Inc.,38.214.83.217,Gembucket,EUR,275079693-8,$1.54
+189,n/a,AOD,NYSE,Alpine Total Dynamic Dividend Fund,46.78.22.153,Alphazap,AFN,468727791-8,$4.69
+190,Consumer Durables,CTHR,NASDAQ,Charles & Colvard Ltd,115.53.181.39,Fintone,HUF,938545287-8,$0.93
+191,n/a,GF,NYSE,"New Germany Fund, Inc. (The)",147.222.15.11,Stim,THB,710946248-X,$3.56
+192,Basic Industries,PLPC,NASDAQ,Preformed Line Products Company,92.157.221.160,Fixflex,CNY,668434900-6,$4.34
+193,n/a,CXE,NYSE,Colonial High Income Municipal Trust,154.216.40.162,Home Ing,CNY,826186132-5,$4.08
+194,Consumer Services,GOOD,NASDAQ,Gladstone Commercial Corporation,155.225.179.23,Veribet,MXN,569479097-9,$5.06
+195,Finance,MSL,NYSE,MidSouth Bancorp,43.113.240.186,It,BAM,254318962-9,$1.60
+196,Miscellaneous,RRD,NYSE,R.R. Donnelley & Sons Company,169.78.224.75,Duobam,EUR,567796462-X,$6.90
+197,Consumer Services,LPT,NYSE,Liberty Property Trust,159.135.139.154,Prodder,EUR,208545515-8,$4.53
+198,Capital Goods,NAV^D,NYSE,Navistar International Corporation,221.171.105.38,Alphazap,EUR,669969796-X,$1.06
+199,Capital Goods,AEHR,NASDAQ,Aehr Test Systems,210.23.220.228,Sonsing,AMD,276478954-8,$9.83
+200,Consumer Non-Durables,CCE,NYSE,Coca-Cola European Partners plc,194.206.196.132,Alphazap,YER,116732853-1,$6.24
+201,Finance,BSBR,NYSE,Banco Santander Brasil SA,84.220.47.150,Temp,IDR,115484945-7,$8.20
+202,Consumer Services,CNK,NYSE,Cinemark Holdings Inc,175.219.172.88,Cardguard,CNY,181792575-X,$7.81
+203,Miscellaneous,ACTG,NASDAQ,Acacia Research Corporation,48.124.65.226,Lotlux,IDR,182287877-2,$0.22
+204,Public Utilities,NWN,NYSE,Northwest Natural Gas Company,214.249.201.226,Namfix,EUR,657365232-0,$6.46
+205,Finance,BSMX,NYSE,Grupo Financiero Santander Mexico S.A. B. de C.V.,86.172.87.26,Zaam-Dox,EUR,124588589-8,$6.95
+206,n/a,IGI,NYSE,Western Asset Investment Grade Defined Opportunity Trust Inc.,242.138.109.176,Tresom,CNY,997305689-2,$3.89
+207,Technology,EGAN,NASDAQ,eGain Corporation,3.103.143.93,Duobam,RWF,152137224-1,$1.07
+208,n/a,FTXD,NASDAQ,First Trust Nasdaq Retail ETF,220.247.78.55,Rank,EUR,717990165-2,$3.36
+209,Consumer Services,SMRT,NASDAQ,"Stein Mart, Inc.",46.225.0.93,Tres-Zap,BRL,114917312-2,$3.27
+210,Technology,KELYA,NASDAQ,"Kelly Services, Inc.",89.222.17.243,Stim,CNY,710987338-2,$8.88
+211,Energy,GPOR,NASDAQ,Gulfport Energy Corporation,17.18.71.210,Cookley,VEF,208546960-4,$2.91
+212,Finance,MGR,NYSE,"Affiliated Managers Group, Inc.",188.232.245.36,Ronstring,CNY,092181318-X,$1.67
+213,Finance,CCCR,NASDAQ,"China Commercial Credit, Inc.",71.42.190.224,Konklux,EUR,349380259-5,$0.63
+214,Transportation,CMRE,NYSE,Costamare Inc.,206.28.67.187,Redhold,PLN,183136013-6,$9.34
+215,Technology,LXFT,NYSE,"Luxoft Holding, Inc.",127.128.59.95,Pannier,PLN,622520867-4,$2.34
+216,Consumer Durables,EGT,NASDAQ,Entertainment Gaming Asia Incorporated,177.140.253.116,Lotlux,BBD,549820013-7,$8.38
+217,Consumer Services,SKIS,NASDAQ,"Peak Resorts, Inc.",84.137.196.247,Kanlam,SEK,896051859-X,$5.93
+218,Capital Goods,RUN,NASDAQ,Sunrun Inc.,63.124.126.40,Stim,ETB,054527281-5,$9.07
+219,n/a,UDBI,NASDAQ,Legg Mason US Diversified Core ETF,212.163.74.67,Wrapsafe,SLL,929707784-6,$2.85
+220,Finance,COBZ,NASDAQ,CoBiz Financial Inc.,146.242.245.61,Trippledex,VND,765532697-5,$1.45
+221,Finance,VEACU,NASDAQ,Vantage Energy Acquisition Corp.,92.149.230.58,Tres-Zap,SEK,204629723-7,$2.35
+222,Finance,IBN,NYSE,ICICI Bank Limited,197.229.109.11,Zamit,USD,703830090-3,$9.76
+223,Energy,ETP,NYSE,"Energy Transfer Partners, L.P.",91.235.154.151,Prodder,IDR,772259225-2,$6.68
+224,n/a,KSM,NYSE,Scudder Strategic Municiple Income Trust,218.13.18.92,Span,EUR,815243443-4,$8.14
+225,n/a,JPM^B,NYSE,J P Morgan Chase & Co,184.9.109.191,Asoka,USD,658874463-3,$7.99
+226,Basic Industries,LEN.B,NYSE,Lennar Corporation,29.220.208.176,Alphazap,CNY,296963864-9,$9.82
+227,Consumer Non-Durables,BG,NYSE,Bunge Limited,105.245.164.162,Quo Lux,YER,464724972-7,$4.77
+228,Technology,HLIT,NASDAQ,Harmonic Inc.,228.112.53.53,Duobam,XOF,640430921-1,$6.67
+229,Consumer Non-Durables,BEBE,NASDAQ,"bebe stores, inc.",175.107.169.219,Tin,PEN,716081780-X,$2.85
+230,Consumer Durables,KMB,NYSE,Kimberly-Clark Corporation,125.129.84.224,Keylex,AZN,261787736-1,$8.26
+231,Health Care,ASND,NASDAQ,Ascendis Pharma A/S,68.95.98.236,Konklab,EUR,130593684-1,$6.98
+232,n/a,IVENC,NASDAQ,Ivy NextShares,11.126.142.157,Greenlam,MYR,072538409-3,$5.79
+233,Finance,NFJ,NYSE,"AllianzGI NFJ Dividend, Interest & Premium Strategy Fund",234.84.57.233,Quo Lux,IDR,147403616-3,$7.79
+234,n/a,TSI,NYSE,"TCW Strategic Income Fund, Inc.",63.135.87.84,Sonair,VND,211437983-3,$7.40
+235,Consumer Services,BBW,NYSE,"Build-A-Bear Workshop, Inc.",68.21.30.221,Alphazap,ZAR,387186166-9,$2.88
+236,n/a,BIS,NASDAQ,ProShares UltraShort Nasdaq Biotechnology,144.92.66.225,Overhold,ILS,358860441-3,$8.43
+237,Energy,WPRT,NASDAQ,Westport Fuel Systems Inc,252.220.171.179,Tempsoft,IDR,007105347-6,$1.43
+238,Consumer Services,WYN,NYSE,Wyndham Worldwide Corp,42.14.171.254,Bytecard,PLN,833915995-X,$6.85
+239,Capital Goods,SMIT,NASDAQ,"Schmitt Industries, Inc.",85.1.12.219,Wrapsafe,CNY,845965976-3,$2.89
+240,Technology,EMKR,NASDAQ,EMCORE Corporation,63.111.34.169,Y-find,CAD,990861946-2,$2.55
+241,Consumer Non-Durables,POST,NYSE,"Post Holdings, Inc.",124.24.181.211,It,PLN,023222786-1,$6.41
+242,Finance,GNTY,NASDAQ,"Guaranty Bancshares, Inc.",221.45.122.234,Lotlux,BAM,452982252-4,$3.96
+243,Finance,UBNK,NASDAQ,"United Financial Bancorp, Inc. ",237.199.28.240,Cardify,PHP,328624802-9,$2.20
+244,Health Care,ARWR,NASDAQ,"Arrowhead Pharmaceuticals, Inc.",188.43.245.153,Latlux,CNY,822434752-4,$5.36
+245,Finance,NESR,NASDAQ,National Energy Services Reunited Corp.,58.41.140.220,Veribet,EUR,192889680-4,$1.56
+246,n/a,NEE^I,NYSE,"NextEra Energy, Inc.",209.141.65.153,Hatity,PHP,700942238-9,$2.36
+247,Capital Goods,RAVN,NASDAQ,"Raven Industries, Inc.",195.189.13.84,Rank,IQD,472007445-6,$2.41
+248,n/a,SCE^K,NYSE,Southern California Edison Company,118.71.254.110,Tempsoft,EUR,276980438-3,$9.30
+249,Public Utilities,WR,NYSE,"Westar Energy, Inc.",229.92.12.71,Konklux,BRL,107001519-9,$1.12
+250,Capital Goods,ARCW,NASDAQ,"ARC Group Worldwide, Inc.",71.200.197.225,Greenlam,BOB,958156184-6,$3.87
+251,Health Care,BVXV,NASDAQ,BiondVax Pharmaceuticals Ltd.,202.32.113.252,Bamity,EUR,227963493-7,$1.00
+252,n/a,ACWX,NASDAQ,iShares MSCI ACWI ex US Index Fund,95.217.92.163,Vagram,PEN,470485813-8,$9.19
+253,n/a,DHF,NYSE,Dreyfus High Yield Strategies Fund,93.31.9.102,Zontrax,CNY,284162291-6,$4.89
+254,Health Care,MSA,NYSE,MSA Safety Incorporporated,128.206.25.38,Vagram,AFN,555410595-5,$5.93
+255,Basic Industries,BBU,NYSE,Brookfield Business Partners L.P.,61.131.156.55,Rank,THB,087180968-0,$3.55
+256,Technology,XPER,NASDAQ,Xperi Corporation,8.231.192.56,Alphazap,PHP,755911530-6,$8.56
+257,Miscellaneous,NCR,NYSE,NCR Corporation,192.70.132.52,Vagram,CNY,560968301-7,$5.02
+258,Technology,APTI,NASDAQ,"Apptio, Inc.",93.234.31.176,Regrant,CNY,973522429-1,$1.90
+259,n/a,SKOR,NASDAQ,FlexShares Credit-Scored US Corporate Bond Index Fund,7.165.83.255,Zontrax,IDR,451661635-1,$3.63
+260,Basic Industries,BDC,NYSE,Belden Inc,76.240.247.26,Zamit,PHP,980235165-2,$6.80
+261,Consumer Services,RMR,NASDAQ,The RMR Group Inc.,76.48.82.57,Bamity,IDR,323368284-0,$7.65
+262,Finance,MLP,NYSE,"Maui Land & Pineapple Company, Inc.",230.222.143.40,Subin,TZS,782952676-1,$7.10
+263,n/a,MTL^,NYSE,Mechel PAO,10.78.92.101,Mat Lam Tam,EUR,450337593-8,$1.54
+264,n/a,NCA,NYSE,"Nuveen California Municipal Value Fund, Inc.",195.128.11.55,Mat Lam Tam,PKR,428422019-5,$6.89
+265,Technology,INTX,NASDAQ,"Intersections, Inc.",139.162.32.123,Zamit,PHP,099892960-3,$6.87
+266,Finance,TRCB,NASDAQ,Two River Bancorp,62.91.16.138,Fixflex,XAF,518698208-3,$7.24
+267,Finance,KNSL,NASDAQ,"Kinsale Capital Group, Inc.",20.255.147.181,Opela,CUP,293754484-3,$6.44
+268,n/a,SAN^C,NYSE,"Banco Santander, S.A.",152.98.57.244,Konklux,XAF,118019253-2,$7.78
+269,Consumer Services,AEO,NYSE,"American Eagle Outfitters, Inc.",220.233.235.140,Solarbreeze,CNY,586902938-4,$3.71
+270,Technology,ALRM,NASDAQ,"Alarm.com Holdings, Inc.",168.76.212.69,Alpha,IDR,390368320-5,$8.95
+271,n/a,VWOB,NASDAQ,Vanguard Emerging Markets Government Bond ETF,88.222.22.229,Aerified,IDR,901308009-X,$9.84
+272,Capital Goods,FARO,NASDAQ,"FARO Technologies, Inc.",69.251.74.2,Bytecard,RSD,886044018-1,$5.94
+273,n/a,PID,NASDAQ,PowerShares International Dividend Achievers Portfolio,176.201.248.133,Namfix,USD,417448313-2,$9.66
+274,Public Utilities,TDJ,NYSE,"Telephone and Data Systems, Inc.",130.5.55.152,Domainer,OMR,502019049-7,$8.34
+275,Transportation,DCIX,NASDAQ,Diana Containerships Inc.,253.144.251.115,Bitchip,PHP,657896109-7,$4.54
+276,Technology,SPXC,NYSE,SPX Corporation,157.103.247.181,Veribet,EUR,215074095-8,$3.23
+277,Technology,DCM,NYSE,"NTT DOCOMO, Inc",118.86.253.30,Kanlam,IDR,837087614-5,$2.09
+278,Finance,ENVA,NYSE,"Enova International, Inc.",240.254.24.74,Quo Lux,CNY,815237636-1,$7.49
+279,Consumer Services,CLDT,NYSE,Chatham Lodging Trust (REIT),233.69.170.63,Veribet,PHP,495127437-X,$6.70
+280,Finance,PNC,NYSE,"PNC Financial Services Group, Inc. (The)",20.231.48.92,Domainer,EUR,851506938-5,$2.96
+281,Energy,RICE,NYSE,Rice Energy Inc.,205.35.204.229,Overhold,CNY,499579132-9,$6.43
+282,Finance,FSV,NASDAQ,FirstService Corporation,92.124.82.58,Pannier,EUR,103026957-2,$9.36
+283,Finance,AIG,NYSE,"American International Group, Inc.",47.11.100.229,Cookley,CNY,762194197-9,$7.81
+284,Health Care,IPXL,NASDAQ,"Impax Laboratories, Inc.",10.127.46.254,Zaam-Dox,USD,319340371-7,$4.12
+285,Health Care,KMDA,NASDAQ,Kamada Ltd.,128.164.106.117,Biodex,SEK,267201233-4,$4.28
+286,n/a,IVH,NYSE,Ivy High Income Opportunities Fund,28.154.98.106,Span,EUR,939490879-X,$0.78
+287,n/a,BIO.B,NYSE,"Bio-Rad Laboratories, Inc.",110.244.241.207,Cardguard,RUB,683585710-2,$4.39
+288,Technology,BOSC,NASDAQ,B.O.S. Better Online Solutions,24.180.23.129,Matsoft,USD,109511445-X,$5.63
+289,Technology,CAMP,NASDAQ,CalAmp Corp.,106.113.168.234,Fixflex,PHP,616835407-7,$7.90
+290,n/a,LKOR,NASDAQ,FlexShares Credit-Scored US Long Corporate Bond Index Fund,222.72.108.164,Konklux,THB,066241029-7,$9.63
+291,Miscellaneous,CREG,NASDAQ,China Recycling Energy Corporation,161.36.11.34,Voltsillam,ARS,837797311-1,$7.34
+292,Finance,BNS,NYSE,Bank of Nova Scotia (The),46.52.189.160,Daltfresh,GHS,471725926-2,$9.43
+293,Finance,BOFIL,NASDAQ,"BofI Holding, Inc.",56.236.78.94,Stronghold,COP,280845986-6,$6.73
+294,Public Utilities,FTS,NYSE,Fortis Inc.,103.220.74.249,Span,PLN,394795717-3,$6.87
+295,Transportation,FWRD,NASDAQ,Forward Air Corporation,174.244.253.84,It,BGN,485892207-3,$8.66
+296,Consumer Services,ANDE,NASDAQ,"The Andersons, Inc.",65.148.186.22,Alphazap,UAH,348363675-7,$2.90
+297,Energy,CRC,NYSE,California Resources Corporation,225.44.97.162,Aerified,BRL,708674997-4,$8.14
+298,Consumer Services,FLL,NASDAQ,"Full House Resorts, Inc.",245.144.100.101,Cardguard,BRL,046870384-5,$5.04
+299,n/a,LDRI,NASDAQ,PowerShares LadderRite 0-5 Year Corporate Bond Portfolio,174.159.2.5,Overhold,AUD,248814036-8,$7.95
+300,Energy,ISRL,NASDAQ,"Isramco, Inc.",204.88.90.200,Greenlam,PHP,738480202-4,$5.61
+301,n/a,GLOG^A,NYSE,GasLog LP.,14.47.182.6,Voyatouch,IRR,281648537-4,$7.04
+302,Finance,FAF,NYSE,First American Corporation (The),232.22.163.239,Quo Lux,EUR,712410598-6,$4.38
+303,Health Care,KTOV,NASDAQ,Kitov Pharmaceuticals Holdings Ltd.,203.33.99.202,Transcof,VND,472674949-8,$5.08
+304,n/a,SOCL,NASDAQ,Global X Social Media ETF,252.168.60.135,Asoka,VND,122429376-2,$5.02
+305,Energy,FANG,NASDAQ,"Diamondback Energy, Inc.",153.183.176.17,Regrant,JPY,732300394-6,$4.60
+306,Public Utilities,SCG,NYSE,Scana Corporation,37.137.102.159,Latlux,CNY,336164684-7,$6.76
+307,Consumer Services,SNOW,NYSE,"Intrawest Resorts Holdings, Inc.",73.175.163.30,Cardguard,USD,573561937-3,$6.51
+308,Consumer Non-Durables,THST,NASDAQ,"Truett-Hurst, Inc.",17.88.196.5,Transcof,AFN,008636436-7,$3.13
+309,Energy,SAEX,NASDAQ,"SAExploration Holdings, Inc.",109.97.39.204,Ventosanzap,MAD,561948321-5,$9.17
+310,Finance,CFNB,NASDAQ,California First National Bancorp,190.130.4.23,Bytecard,PHP,437418151-2,$8.51
+311,Energy,EMR,NYSE,Emerson Electric Company,0.217.169.44,Zathin,PLN,162037387-4,$5.62
+312,Finance,WYIGW,NASDAQ,JM Global Holding Company,207.163.88.182,Voyatouch,BRL,703616147-7,$3.01
+313,n/a,EDD,NYSE,"Morgan Stanley Emerging Markets Domestic Debt Fund, Inc.",9.192.58.127,Holdlamis,EUR,525714466-2,$0.32
+314,Health Care,ZSAN,NASDAQ,Zosano Pharma Corporation,222.214.241.70,Bigtax,JPY,494371447-1,$1.37
+315,n/a,PEZ,NASDAQ,PowerShares DWA Consumer Cyclicals Momentum Portfolio,125.184.19.234,Cookley,MYR,208390901-1,$7.04
+316,n/a,STI.WS.A,NYSE,"SunTrust Banks, Inc.",236.53.16.242,Prodder,PLN,383050745-3,$9.18
+317,n/a,NMT,NYSE,Nuveen Massachusetts Municipal Income Fund,53.95.254.84,Flexidy,CNY,612383254-9,$0.81
+318,Consumer Non-Durables,SAFM,NASDAQ,"Sanderson Farms, Inc.",148.71.211.3,Otcom,THB,752056465-7,$8.14
+319,Consumer Services,LVNTB,NASDAQ,Liberty Interactive Corporation,153.103.17.85,Cardguard,PHP,367149293-7,$9.85
+320,Finance,CVLY,NASDAQ,"Codorus Valley Bancorp, Inc",91.84.225.103,Fix San,IRR,787744356-0,$3.23
+321,Consumer Services,ESRT,NYSE,"Empire State Realty Trust, Inc.",119.96.177.238,Regrant,IDR,719257418-X,$4.44
+322,Consumer Non-Durables,VOXX,NASDAQ,VOXX International Corporation,149.11.23.194,Domainer,LKR,589159731-4,$6.28
+323,Health Care,APTO,NASDAQ,"Aptose Biosciences, Inc.",97.101.88.6,Namfix,BTN,794649673-7,$6.78
+324,Technology,WIX,NASDAQ,Wix.com Ltd.,117.117.15.118,Mat Lam Tam,CNY,331649851-6,$5.48
+325,Technology,CRNT,NASDAQ,Ceragon Networks Ltd.,46.246.147.75,Treeflex,COP,090599478-7,$5.59
+326,Public Utilities,CWT,NYSE,California Water  Service Group Holding,184.247.14.50,Vagram,IDR,863906160-2,$1.05
+327,Consumer Services,DS,NYSE,Drive Shack Inc.,130.152.61.165,Zamit,CAD,435855331-1,$2.81
+328,Health Care,CAH,NYSE,"Cardinal Health, Inc.",7.186.229.99,Veribet,NGN,718733718-3,$2.85
+329,Health Care,LIFE,NASDAQ,"aTyr Pharma, Inc.",182.138.253.21,Zoolab,EUR,774006286-3,$3.05
+330,Finance,WMIH,NASDAQ,WMIH Corp.,37.106.238.92,Tresom,USD,273284438-1,$1.71
+331,Health Care,GHDX,NASDAQ,"Genomic Health, Inc.",64.120.113.218,Bamity,EUR,113840530-2,$9.08
+332,Consumer Durables,KAMN,NYSE,Kaman Corporation,116.203.199.169,Regrant,PHP,802573872-8,$7.40
+333,Miscellaneous,NOVT,NASDAQ,Novanta Inc.,124.38.105.166,Alpha,SLL,869398130-7,$9.21
+334,Health Care,WBA,NASDAQ,"Walgreens Boots Alliance, Inc.",141.131.105.161,Lotlux,CNY,709067603-X,$3.62
+335,n/a,TPVG,NYSE,TriplePoint Venture Growth BDC Corp.,226.150.128.48,Tampflex,CNY,835514037-0,$9.67
+336,Public Utilities,SKYS,NASDAQ,"Sky Solar Holdings, Ltd.",63.233.146.98,Stringtough,JPY,504388064-3,$9.34
+337,Energy,DNOW,NYSE,NOW Inc.,200.11.143.54,Regrant,ARS,508276795-X,$6.10
+338,n/a,ADRE,NASDAQ,BLDRS Emerging Markets 50 ADR Index Fund,80.234.230.66,Veribet,THB,234615861-5,$9.25
+339,Consumer Services,FRSH,NASDAQ,"Papa Murphy's Holdings, Inc.",218.26.32.157,Sonair,COP,312720138-9,$3.21
+340,Finance,MET,NYSE,"MetLife, Inc.",203.158.201.104,Bigtax,CNY,578062970-6,$3.86
+341,n/a,VRIG,NASDAQ,PowerShares Variable Rate Investment Grade Portfolio,144.36.254.13,Sonair,COP,164773309-X,$6.62
+342,n/a,GGT^B,NYSE,Gabelli Multi-Media Trust Inc. (The),190.75.32.175,Fintone,MDL,213493270-8,$9.96
+343,Finance,RM,NYSE,Regional Management Corp.,207.66.174.213,Aerified,CNY,675177703-5,$7.59
+344,n/a,ESGE,NASDAQ,iShares MSCI EM ESG Optimized ETF,117.50.151.161,Fix San,BYR,527139061-6,$4.99
+345,n/a,NTEST,NYSE,NASDAQ TEST STOCK,205.43.168.69,Cardify,IDR,038770347-0,$6.76
+346,Consumer Services,CALI,NASDAQ,China Auto Logistics Inc.,252.6.79.114,Quo Lux,BRL,590693721-8,$5.50
+347,Consumer Services,W,NYSE,Wayfair Inc.,89.64.53.203,Rank,BRL,563357240-8,$9.07
+348,n/a,BGH,NYSE,Babson Global Short Duration High Yield Fund,89.239.198.55,Subin,XAF,453373393-X,$6.36
+349,Energy,RRC,NYSE,Range Resources Corporation,29.46.64.60,Latlux,KPW,765676702-9,$7.34
+350,Public Utilities,ORAN,NYSE,Orange,101.160.232.255,Transcof,IDR,842875170-6,$1.80
+351,Technology,LFGR,NYSE,Leaf Group Ltd.,193.37.92.21,It,IDR,510542885-4,$0.58
+352,n/a,PTY,NYSE,Pimco Corporate & Income Opportunity Fund,28.127.2.191,Daltfresh,CNY,789039553-1,$7.71
+353,n/a,C^C,NYSE,Citigroup Inc.,147.154.229.89,Temp,PHP,082967921-9,$4.45
+354,Capital Goods,STRT,NASDAQ,Strattec Security Corporation,178.30.52.178,Latlux,YER,473264906-8,$5.96
+355,Health Care,AXSM,NASDAQ,"Axsome Therapeutics, Inc.",16.119.109.244,Overhold,CNY,119428562-7,$4.43
+356,Technology,SGMS,NASDAQ,Scientific Games Corp,95.247.201.104,Regrant,COP,596235837-6,$2.61
+357,Health Care,ATEC,NASDAQ,"Alphatec Holdings, Inc.",233.75.13.226,Subin,TND,371031602-2,$9.07
+358,Finance,PAACW,NASDAQ,Pacific Special Acquisition Corp.,50.175.139.94,Bitchip,VND,725083504-1,$1.18
+359,Finance,C,NYSE,Citigroup Inc.,62.0.118.238,Kanlam,EGP,572863053-7,$2.13
+360,Basic Industries,URRE,NASDAQ,"Uranium Resources, Inc.",117.164.68.124,Keylex,GEL,935980008-2,$4.10
+361,Capital Goods,TG,NYSE,Tredegar Corporation,191.212.82.52,Vagram,BRL,510683573-9,$6.04
+362,n/a,JCE,NYSE,Nuveen Core Equity Alpha Fund,216.27.152.72,Alphazap,NZD,182643578-6,$7.76
+363,Public Utilities,VST,NYSE,Vistra Energy Corp.,52.32.203.16,Hatity,RUB,810886410-0,$8.41
+364,Technology,IVAC,NASDAQ,"Intevac, Inc.",123.177.17.155,Pannier,IDR,042896826-0,$9.03
+365,Finance,EBTC,NASDAQ,Enterprise Bancorp Inc,233.254.235.111,Zontrax,BGN,331737016-5,$9.56
+366,Health Care,GALE,NASDAQ,"Galena Biopharma, Inc.",126.240.55.120,Bamity,IDR,153195944-X,$7.93
+367,Miscellaneous,ULBI,NASDAQ,Ultralife Corporation,201.139.18.153,Konklab,XCD,398059116-6,$4.50
+368,Health Care,DCTH,NASDAQ,"Delcath Systems, Inc.",142.28.251.193,Transcof,GBP,614360269-7,$1.44
+369,Capital Goods,HII,NYSE,"Huntington Ingalls Industries, Inc.",179.194.171.37,Alpha,PHP,127915555-8,$7.63
+370,Consumer Non-Durables,ATR,NYSE,"AptarGroup, Inc.",64.33.74.168,Duobam,JPY,613254898-X,$3.09
+371,n/a,EVT,NYSE,Eaton Vance Tax Advantaged Dividend Income Fund,209.35.253.77,Pannier,HUF,163363681-X,$3.53
+372,Health Care,ROSG,NASDAQ,Rosetta Genomics Ltd.,92.74.173.10,Konklux,MXN,642363847-0,$3.33
+373,Miscellaneous,MSCI,NYSE,MSCI Inc,206.179.28.252,Gembucket,EUR,837410257-8,$6.74
+374,Basic Industries,CLH,NYSE,"Clean Harbors, Inc.",67.195.157.214,Hatity,NOK,677490874-8,$6.68
+375,n/a,PIE,NASDAQ,PowerShares DWA Emerging Markets Momentum Portfolio,140.43.72.208,Flowdesk,COP,450930944-9,$8.59
+376,Energy,TUSK,NASDAQ,"Mammoth Energy Services, Inc.",166.107.39.60,Bamity,BRL,297387547-1,$2.88
+377,Public Utilities,ALSK,NASDAQ,"Alaska Communications Systems Group, Inc.",2.241.29.70,Mat Lam Tam,MYR,794254510-5,$2.61
+378,Consumer Services,LBTYK,NASDAQ,Liberty Global plc,72.39.158.157,Lotlux,THB,693308948-7,$8.97
+379,Capital Goods,GRBK,NASDAQ,"Green Brick Partners, Inc.",115.201.67.85,Duobam,CNY,741800914-3,$7.41
+380,n/a,NIM,NYSE,Nuveen Select Maturities Municipal Fund,249.235.82.174,Lotlux,CAD,587753428-9,$5.31
+381,Consumer Services,AMZN,NASDAQ,"Amazon.com, Inc.",64.2.133.50,Keylex,RUB,770136581-8,$9.41
+382,n/a,JSMD,NASDAQ,Janus Henderson Small/Mid Cap Growth Alpha ETF,229.91.163.28,Zathin,CNY,406306722-X,$8.44
+383,Consumer Services,LSXMA,NASDAQ,Liberty Media Corporation,90.170.72.4,Mat Lam Tam,EGP,997960958-3,$2.53
+384,Consumer Services,SERV,NYSE,"ServiceMaster Global Holdings, Inc.",242.26.40.7,Redhold,MNT,344375319-1,$6.65
+385,Finance,HJV,NYSE,MS Structured Asset Corp Saturns GE Cap Corp Series 2002-14,112.45.235.89,Ronstring,EUR,222018321-1,$0.91
+386,Energy,HNRG,NASDAQ,Hallador Energy Company,239.234.84.72,Latlux,BOB,620005994-2,$6.78
+387,n/a,COF^D,NYSE,Capital One Financial Corporation,105.252.219.11,Trippledex,ETB,394980146-4,$0.18
+388,Consumer Durables,CWH,NYSE,"Camping World Holdings, Inc.",16.46.186.167,Vagram,CNY,006895522-7,$2.65
+389,Consumer Non-Durables,SQBG,NASDAQ,"Sequential Brands Group, Inc.",119.56.201.252,Solarbreeze,BGN,529000478-5,$3.07
+390,Finance,FMNB,NASDAQ,Farmers National Banc Corp.,219.203.66.100,Vagram,IDR,627633951-2,$0.18
+391,n/a,NMY,NYSE,Nuveen Maryland Quality Municipal Income Fund,147.21.104.3,Sub-Ex,SEK,473460287-5,$3.63
+392,n/a,STAR^G,NYSE,iStar Financial Inc.,206.81.233.52,Veribet,SEK,357112377-8,$4.64
+393,Consumer Non-Durables,THS,NYSE,"Treehouse Foods, Inc.",122.206.78.135,Fixflex,IDR,346364230-1,$6.42
+394,Capital Goods,NVR,NYSE,"NVR, Inc.",229.217.35.68,Latlux,EUR,647949396-6,$3.68
+395,n/a,SCHW^B,NYSE,The Charles Schwab Corporation,98.39.17.78,Trippledex,EUR,785006366-X,$4.14
+396,Consumer Services,FTD,NASDAQ,"FTD Companies, Inc.",33.67.113.199,Y-find,IDR,187281104-3,$0.65
+397,n/a,PCN,NYSE,Pimco Corporate & Income Stategy Fund,196.172.49.232,Prodder,EUR,914043789-2,$6.85
+398,Health Care,IPXL,NASDAQ,"Impax Laboratories, Inc.",183.155.102.155,Bitchip,CNY,064970946-2,$2.48
+399,n/a,HE^U,NYSE,"Hawaiian Electric Industries, Inc.",102.104.224.30,Job,CNY,924322343-7,$6.53
+400,Consumer Non-Durables,FTFT,NASDAQ,Future FinTech Group Inc.,80.215.55.33,Rank,CNY,734279705-7,$9.93
+401,Consumer Non-Durables,COTY,NYSE,Coty Inc.,194.134.6.205,Stringtough,PLN,758064550-5,$8.30
+402,Health Care,DFFN,NASDAQ,Diffusion Pharmaceuticals Inc.,119.39.146.190,Cookley,COP,765824933-5,$2.23
+403,n/a,ARCC,NASDAQ,Ares Capital Corporation,66.173.29.203,Pannier,BRL,411412122-6,$6.68
+404,Finance,UNM,NYSE,Unum Group,215.160.69.91,Alpha,CNY,421235810-7,$3.63
+405,n/a,DLR^H,NYSE,"Digital Realty Trust, Inc.",237.132.50.3,Bitchip,CAD,707983906-8,$2.97
+406,Finance,RZA,NYSE,"Reinsurance Group of America, Incorporated",101.62.123.225,Lotlux,IRR,130492502-1,$1.05
+407,Finance,WYIGW,NASDAQ,JM Global Holding Company,17.241.83.103,Otcom,USD,315787030-0,$7.11
+408,n/a,ADRE,NASDAQ,BLDRS Emerging Markets 50 ADR Index Fund,103.69.64.203,Tin,BRL,495607638-X,$5.21
+409,Miscellaneous,LABL,NASDAQ,Multi-Color Corporation,2.221.179.188,Ventosanzap,CAD,932954021-X,$5.94
+410,Public Utilities,CHA,NYSE,China Telecom Corp Ltd,44.8.222.206,Holdlamis,PHP,832956678-1,$3.30
+411,n/a,KRC^H,NYSE,Kilroy Realty Corporation,107.196.36.240,Wrapsafe,UAH,451912088-8,$2.57
+412,n/a,CEM,NYSE,ClearBridge Energy MLP Fund Inc.,2.16.147.201,Subin,PEN,485942605-3,$9.40
+413,Finance,SCAC,NASDAQ,Saban Capital Acquisition Corp.,36.202.42.181,Rank,USD,026233720-7,$6.16
+414,Consumer Services,WPG,NYSE,Washington Prime Group Inc.,27.215.49.129,Bytecard,WST,159796544-8,$1.10
+415,Consumer Services,MNI,NYSE,McClatchy Company (The),59.186.62.132,Kanlam,ILS,999647380-5,$0.72
+416,Technology,CHKP,NASDAQ,Check Point Software Technologies Ltd.,82.200.80.71,It,AUD,721692921-7,$3.98
+417,Consumer Services,CBD,NYSE,Companhia Brasileira de Distribuicao,147.188.147.11,Ventosanzap,EUR,508265508-6,$2.75
+418,Finance,AJG,NYSE,Arthur J. Gallagher & Co.,60.209.181.6,Mat Lam Tam,IDR,276993635-2,$7.65
+419,Consumer Services,RGS,NYSE,Regis Corporation,223.171.115.169,Tres-Zap,ARS,935629457-7,$5.17
+420,n/a,CYS^A,NYSE,"CYS Investments, Inc.",124.158.1.92,Gembucket,EUR,107010790-5,$2.88
+421,n/a,NNC,NYSE,Nuveen North Carolina Quality Municipal Income Fd,204.232.40.143,Keylex,BRL,458604387-3,$2.10
+422,Consumer Services,RHP,NYSE,"Ryman Hospitality Properties, Inc.",240.151.38.21,Duobam,EUR,432889993-7,$6.71
+423,n/a,ETX           ,NYSE,Eaton Vance Municipal Income 2028 Term Trust,229.207.232.81,Asoka,SEK,620020152-8,$4.02
+424,Health Care,MACK,NASDAQ,"Merrimack Pharmaceuticals, Inc.",90.79.112.221,Bitchip,CNY,373981475-6,$1.96
+425,Finance,SPGI,NYSE,S&P Global Inc.,47.236.149.23,Voyatouch,IDR,758840409-4,$2.06
+426,Miscellaneous,LKSD,NYSE,"LSC Communications, Inc.",163.121.28.85,Zontrax,GBP,871075615-9,$7.92
+427,Capital Goods,LDL,NYSE,"Lydall, Inc.",206.253.193.223,Latlux,BRL,244362603-2,$6.27
+428,Basic Industries,TRQ,NYSE,Turquoise Hill Resources Ltd.,60.116.202.219,Otcom,PHP,862571049-2,$4.44
+429,Capital Goods,SMIT,NASDAQ,"Schmitt Industries, Inc.",121.37.45.185,Tempsoft,RUB,534121808-6,$6.88
+430,Capital Goods,AAXN,NASDAQ,"Axon Enterprise, Inc.",125.117.228.138,Tin,GTQ,546705351-5,$9.04
+431,Consumer Services,CRTN,NASDAQ,"Cartesian, Inc.",130.218.18.82,Tresom,RUB,270137111-2,$2.47
+432,Public Utilities,CNP,NYSE,"CenterPoint Energy, Inc.",148.244.190.129,Y-find,THB,681420859-8,$2.12
+433,n/a,AIB,NYSE,Apollo Investment Corporation,247.47.226.134,Tresom,YER,588807220-6,$1.22
+434,Miscellaneous,WNS,NYSE,WNS (Holdings) Limited,67.28.137.228,Bamity,KZT,301248490-6,$0.14
+435,Basic Industries,OEC,NYSE,Orion Engineered Carbons S.A,142.172.104.216,Stim,XOF,830676661-X,$0.25
+436,Basic Industries,KMG,NYSE,"KMG Chemicals, Inc.",20.183.187.144,Cookley,EUR,495448431-6,$3.30
+437,n/a,STI.WS.A,NYSE,"SunTrust Banks, Inc.",187.91.103.243,Fintone,PLN,037364317-9,$4.53
+438,Consumer Services,LSXMA,NASDAQ,Liberty Media Corporation,150.58.87.185,Zaam-Dox,ALL,474947930-6,$3.66
+439,Consumer Services,SOHOB,NASDAQ,Sotherly Hotels Inc.,138.184.20.155,Viva,EUR,321771121-1,$5.30
+440,Consumer Non-Durables,ENS,NYSE,Enersys,94.107.180.28,Alpha,THB,982953663-7,$2.07
+441,Health Care,OCUL,NASDAQ,"Ocular Therapeutix, Inc.",132.243.176.117,Zaam-Dox,UAH,744178858-7,$8.54
+442,Finance,OLBK,NASDAQ,"Old Line Bancshares, Inc.",10.163.66.26,Tres-Zap,CNY,357315136-1,$6.49
+443,Finance,MLVF,NASDAQ,"Malvern Bancorp, Inc.",55.186.194.126,Andalax,RUB,462770776-2,$4.35
+444,Consumer Services,EDR,NYSE,Education Realty Trust Inc.,95.224.95.164,Biodex,BRL,485244765-9,$8.31
+445,Basic Industries,DELT,NASDAQ,Delta Technology Holdings Limited,22.73.141.33,Latlux,TJS,137494000-3,$7.29
+446,n/a,JGH,NYSE,Nuveen Global High Income Fund,103.179.63.138,Matsoft,SEK,143024818-1,$2.08
+447,Public Utilities,XEL,NYSE,Xcel Energy Inc.,99.194.14.240,Wrapsafe,PLN,436609340-5,$2.04
+448,Transportation,NM,NYSE,Navios Maritime Holdings Inc.,144.95.243.132,Flexidy,CDF,409926651-6,$7.43
+449,Consumer Services,RCM,NASDAQ,R1 RCM Inc.,69.118.16.171,Alpha,PHP,248875668-7,$6.86
+450,Health Care,LNTH,NASDAQ,"Lantheus Holdings, Inc.",238.20.20.151,Bytecard,RSD,882469733-X,$2.83
+451,Health Care,VKTXW,NASDAQ,"Viking Therapeutics, Inc.",42.210.221.156,Veribet,PLN,987660513-5,$2.50
+452,Health Care,NEO,NASDAQ,"NeoGenomics, Inc.",77.70.86.208,Y-Solowarm,SEK,248648130-3,$2.33
+453,Finance,MFCB,NYSE,MFC Bancorp Ltd.,215.219.175.57,Prodder,IDR,708886594-7,$2.92
+454,Finance,ICCH,NASDAQ,"ICC Holdings, Inc.",173.120.72.90,Matsoft,CNY,993304189-4,$8.95
+455,Finance,UBNK,NASDAQ,"United Financial Bancorp, Inc. ",163.44.73.35,Mat Lam Tam,EUR,220112950-9,$8.25
+456,Consumer Non-Durables,JAKK,NASDAQ,"JAKKS Pacific, Inc.",178.160.242.233,Wrapsafe,DOP,091684480-3,$3.19
+457,Capital Goods,GFF,NYSE,Griffon Corporation,105.83.29.252,Zathin,CLP,654488648-3,$7.70
+458,n/a,RAS^B,NYSE,RAIT Financial Trust,36.209.41.108,It,CNY,978672059-8,$4.76
+459,Consumer Services,MCS,NYSE,Marcus Corporation (The),254.204.126.138,Duobam,BRL,731720695-4,$7.13
+460,Finance,SF^A,NYSE,Stifel Financial Corporation,237.189.232.219,Voyatouch,IDR,882902243-8,$6.36
+461,n/a,AWF,NYSE,Alliance World Dollar Government Fund II,69.205.195.63,Zamit,CNY,730198281-X,$9.89
+462,Technology,BVSN,NASDAQ,"BroadVision, Inc.",118.250.43.123,Bamity,CNY,835149696-0,$2.43
+463,Consumer Services,RNET,NASDAQ,"RigNet, Inc.",130.63.85.192,Vagram,EUR,670307726-6,$1.96
+464,n/a,GS^B,NYSE,"Goldman Sachs Group, Inc. (The)",200.40.191.239,Ventosanzap,EUR,973049969-1,$9.41
+465,n/a,UMH^B,NYSE,"UMH Properties, Inc.",80.61.228.159,Pannier,EUR,149707854-7,$7.88
+466,Finance,ABCB,NASDAQ,Ameris Bancorp,187.120.181.188,Overhold,RUB,628019927-4,$2.91
+467,Technology,ERIC,NASDAQ,Ericsson,227.30.199.177,Vagram,HRK,355063438-2,$9.16
+468,Finance,PAAC,NASDAQ,Pacific Special Acquisition Corp.,166.204.104.91,Latlux,CNY,279607439-0,$7.83
+469,n/a,NLY^E,NYSE,Annaly Capital Management Inc,129.221.242.204,Duobam,BRL,058209031-8,$1.03
+470,Health Care,MZOR,NASDAQ,Mazor Robotics Ltd.,221.50.132.76,Trippledex,PYG,453191016-8,$1.94
+471,Energy,RICE,NYSE,Rice Energy Inc.,145.218.169.188,Keylex,IDR,417755272-0,$1.67
+472,Technology,TRMR,NYSE,"Tremor Video, Inc.",136.141.29.64,Holdlamis,CNY,599199296-7,$1.61
+473,Finance,NESRW,NASDAQ,National Energy Services Reunited Corp.,197.247.37.191,Kanlam,EUR,935901469-9,$2.35
+474,n/a,HYB,NYSE,"New America High Income Fund, Inc. (The)",90.226.204.248,Alphazap,CNY,850420632-7,$9.71
+475,Capital Goods,LDL,NYSE,"Lydall, Inc.",88.63.14.2,Lotstring,IDR,162984010-6,$7.50
+476,Health Care,CHFS,NASDAQ,"CHF Solutions, Inc.",68.20.125.184,Flexidy,EUR,865536227-1,$1.91
+477,Finance,HTLF,NASDAQ,"Heartland Financial USA, Inc.",30.182.114.199,Namfix,JPY,206365702-5,$1.96
+478,Consumer Services,DNKN,NASDAQ,"Dunkin' Brands Group, Inc.",244.225.97.68,Tempsoft,EUR,784005091-3,$2.05
+479,n/a,NCA,NYSE,"Nuveen California Municipal Value Fund, Inc.",205.152.29.9,Overhold,PHP,240603344-9,$5.36
+480,Health Care,OGXI,NASDAQ,OncoGenex Pharmaceuticals Inc.,213.66.8.166,Ronstring,EUR,372015913-2,$4.44
+481,Finance,AEB,NYSE,Aegon NV,99.176.161.176,Treeflex,SEK,330587506-2,$1.70
+482,Capital Goods,ADNT,NYSE,Adient plc,35.30.116.4,Cardify,THB,100764896-1,$1.69
+483,Transportation,ASC,NYSE,Ardmore Shipping Corporation,221.96.170.3,Kanlam,RUB,289502345-X,$1.96
+484,n/a,NEA,NYSE,Nuveen AMT-Free Quality Municipal Income Fund,93.58.252.180,Aerified,UAH,371073461-4,$8.63
+485,n/a,CIZ,NASDAQ,VictoryShares Developed Enhanced Volatility Wtd ETF,92.222.55.222,Toughjoyfax,ARS,735225926-0,$6.07
+486,Public Utilities,EZT,NYSE,Entergy Texas Inc,55.188.56.170,Bamity,HTG,185900323-0,$3.35
+487,Consumer Non-Durables,FORK,NASDAQ,Fuling Global Inc.,122.204.59.129,Gembucket,EUR,227148029-9,$7.92
+488,Public Utilities,TDE,NYSE,"Telephone and Data Systems, Inc.",40.237.14.126,Tresom,RUB,272891499-0,$1.86
+489,Finance,CNA,NYSE,CNA Financial Corporation,236.216.89.197,Pannier,PAB,798311110-X,$9.45
+490,Health Care,TBPH,NASDAQ,"Theravance Biopharma, Inc.",11.143.90.75,Mat Lam Tam,KES,196677319-6,$2.86
+491,n/a,FLC,NYSE,Flaherty & Crumrine Total Return Fund Inc,53.155.174.227,Bitchip,CNY,638470190-1,$3.79
+492,n/a,NQP,NYSE,Nuveen Pennsylvania Quality Municipal Income Fund,217.76.185.203,Tampflex,IDR,138549105-1,$4.89
+493,Finance,GBL,NYSE,"Gamco Investors, Inc.",156.51.116.128,Tempsoft,CAD,241438421-2,$5.93
+494,Finance,WSFSL,NASDAQ,WSFS Financial Corporation,253.98.105.245,Aerified,IDR,978298280-6,$3.03
+495,n/a,FITS,NASDAQ,The Health and Fitness ETF,177.128.47.41,Span,AFN,073467602-6,$0.39
+496,Capital Goods,ORBK,NASDAQ,Orbotech Ltd.,3.70.137.175,Toughjoyfax,THB,910729870-6,$4.44
+497,Finance,DGICB,NASDAQ,"Donegal Group, Inc.",218.1.78.113,Konklab,VEF,846132341-6,$3.18
+498,n/a,WFC^X,NYSE,Wells Fargo & Company,189.155.32.27,Kanlam,CNY,279993469-2,$5.61
+499,n/a,BST,NYSE,BlackRock Science and Technology Trust,195.88.221.102,Fintone,IDR,438001224-7,$3.92
+500,n/a,SCHW^C,NYSE,The Charles Schwab Corporation,50.127.122.11,Daltfresh,GBP,049865552-0,$9.70
+501,Capital Goods,BOOM,NASDAQ,DMC Global Inc.,207.127.123.18,Stringtough,COP,991299935-5,$9.10
+502,n/a,MYF,NYSE,Blackrock MuniYield Investment Fund,8.68.205.242,Zamit,CNY,532074649-0,$1.83
+503,Consumer Services,RPAI,NYSE,"Retail Properties of America, Inc.",146.103.98.133,Voltsillam,BRL,425795466-3,$5.31
+504,Health Care,BSPM,NASDAQ,"Biostar Pharmaceuticals, Inc.",110.192.10.207,Cardify,RUB,482281487-4,$0.77
+505,Capital Goods,IART,NASDAQ,Integra LifeSciences Holdings Corporation,193.160.201.236,Zoolab,CNY,180460283-3,$1.19
+506,n/a,NEWT,NASDAQ,Newtek Business Services Corp.,209.188.43.227,Ventosanzap,IDR,552742119-1,$7.43
+507,Health Care,HYH,NYSE,"Halyard Health, Inc.",205.40.1.99,Temp,CNY,726158288-3,$9.85
+508,Energy,CLMT,NASDAQ,"Calumet Specialty Products Partners, L.P.",236.133.197.239,Biodex,IDR,118057402-8,$2.23
+509,Finance,FFBC,NASDAQ,First Financial Bancorp.,28.26.0.230,Tin,IDR,518669101-1,$8.04
+510,Health Care,RDY,NYSE,Dr. Reddy's Laboratories Ltd,170.253.134.23,Holdlamis,MAD,977157539-2,$7.98
+511,Finance,CATYW,NASDAQ,Cathay General Bancorp,2.200.230.186,Holdlamis,CNY,891134586-5,$7.87
+512,Consumer Services,HR,NYSE,Healthcare Realty Trust Incorporated,36.205.96.24,Andalax,COP,080695079-X,$1.54
+513,n/a,FT,NYSE,Franklin Universal Trust,77.74.80.246,Bitwolf,CNY,420108782-4,$5.78
+514,Health Care,JUNO,NASDAQ,"Juno Therapeutics, Inc.",46.24.7.99,Viva,PHP,993096635-8,$5.90
+515,Technology,MDRX,NASDAQ,"Allscripts Healthcare Solutions, Inc.",90.83.71.129,Kanlam,PHP,089524535-3,$2.02
+516,Health Care,NVS,NYSE,Novartis AG,61.126.83.100,Zamit,NGN,772068270-X,$5.67
+517,Consumer Services,FPO,NYSE,First Potomac Realty Trust,228.32.46.182,Gembucket,PLN,382770286-0,$7.31
+518,n/a,GGM,NYSE,Guggenheim Credit Allocation Fund,30.185.14.213,Keylex,IDR,675195268-6,$0.66
+519,Health Care,IMNP          ,NASDAQ,Immune Pharmaceuticals Inc.,238.161.86.5,Andalax,PLN,005707433-X,$9.70
+520,n/a,CCD,NASDAQ,Calamos Dynamic Convertible & Income Fund,148.103.124.140,Stringtough,IDR,040615515-1,$1.43
+521,n/a,JPM.WS,NYSE,J P Morgan Chase & Co,138.222.208.73,Sonair,CNY,961117785-2,$8.64
+522,Transportation,SINO,NASDAQ,"Sino-Global Shipping America, Ltd.",255.232.208.130,Y-Solowarm,THB,953016360-6,$3.93
+523,Consumer Durables,TGLS,NASDAQ,Tecnoglass Inc.,235.107.80.185,Alpha,CNY,712248648-6,$4.92
+524,Technology,AWRE,NASDAQ,"Aware, Inc.",159.175.105.110,Bamity,PAB,857138024-4,$5.71
+525,Capital Goods,RACE,NYSE,Ferrari N.V.,67.205.40.155,Sonsing,MKD,814842830-1,$1.23
+526,n/a,NRK,NYSE,Nuveen New York AMT-Free Quality Municipal,58.218.78.238,Daltfresh,EUR,656075738-2,$2.13
+527,Consumer Services,HF,NYSE,"HFF, Inc.",242.130.140.239,Opela,THB,618467006-9,$7.06
+528,Finance,WBK,NYSE,Westpac Banking Corporation,223.160.234.44,Y-find,USD,178695280-7,$9.48
+529,n/a,ARI^C,NYSE,Apollo Commercial Real Estate Finance,60.148.187.128,Ventosanzap,PKR,563884507-0,$3.55
+530,Public Utilities,AKTS,NASDAQ,"Akoustis Technologies, Inc.",99.167.156.224,Stronghold,AFN,374235026-9,$2.36
+531,Finance,ACFC,NASDAQ,Atlantic Coast Financial Corporation,210.106.214.217,Namfix,CNY,351094505-0,$3.20
+532,n/a,ISHG,NASDAQ,iShares S&P/Citigroup 1-3 Year International Treasury Bond Fun,63.42.243.22,Voltsillam,HTG,073590559-2,$7.01
+533,Basic Industries,MRDNW,NASDAQ,"Meridian Waste Solutions, Inc",193.96.230.166,Vagram,EUR,281274045-0,$9.75
+534,Finance,GZT,NYSE,Gazit-Globe Ltd.,47.154.51.10,Fix San,IDR,325927441-3,$4.48
+535,n/a,OPB,NASDAQ,Opus Bank,196.122.128.131,Wrapsafe,CAD,700760730-6,$0.49
+536,Finance,SBCP,NASDAQ,"Sunshine Bancorp, Inc.",197.116.224.193,Holdlamis,ARS,304226075-5,$1.67
+537,Capital Goods,HDNG,NASDAQ,Hardinge Inc.,149.113.57.98,Stronghold,JPY,780913491-4,$5.08
+538,Energy,EQT,NYSE,EQT Corporation,155.238.143.170,Bitwolf,CNY,513513299-6,$0.34
+539,n/a,MQY,NYSE,"Blackrock MuniYield Quality Fund, Inc.",200.77.157.37,Trippledex,NGN,081574210-X,$1.39
+540,Finance,BAP,NYSE,Credicorp Ltd.,19.105.216.25,Quo Lux,PEN,377666968-3,$7.58
+541,Consumer Non-Durables,COT,NYSE,Cott Corporation,109.148.247.203,Cookley,CNY,718121098-X,$5.43
+542,n/a,TCRD,NASDAQ,"THL Credit, Inc.",250.170.184.118,Stronghold,CNY,716633837-7,$6.57
+543,Technology,ACIW,NASDAQ,"ACI Worldwide, Inc.",42.251.95.159,Matsoft,THB,824427678-9,$7.29
+544,Finance,UCBA,NASDAQ,United Community Bancorp,200.162.233.148,Wrapsafe,EUR,784006834-0,$4.64
+545,n/a,GAB^G,NYSE,"Gabelli Equity Trust, Inc. (The)",11.23.235.99,Tresom,IDR,982974068-4,$1.99
+546,Consumer Non-Durables,UAA,NYSE,"Under Armour, Inc.",22.54.235.182,Konklab,YER,037065484-6,$3.51
+547,n/a,MCV,NYSE,Medley Capital Corporation,19.236.6.191,Tempsoft,CNY,233053735-2,$8.78
+548,Energy,AR,NYSE,Antero Resources Corporation,251.143.166.35,Treeflex,IDR,071459620-5,$3.33
+549,Finance,NGHCP,NASDAQ,National General Holdings Corp,170.239.69.30,Voyatouch,BRL,946634709-8,$8.34
+550,Basic Industries,SXCP,NYSE,"SunCoke Energy Partners, L.P.",131.147.131.32,Solarbreeze,BRL,041247154-X,$3.46
+551,Health Care,BSTG,NASDAQ,"Biostage, Inc.",150.23.235.245,Biodex,IDR,403841861-8,$3.84
+552,Finance,RBS^H,NYSE,Royal Bank Scotland plc (The),119.79.244.91,Kanlam,PHP,754948691-3,$1.65
+553,n/a,SCACU,NASDAQ,Saban Capital Acquisition Corp.,25.121.90.110,Daltfresh,MZN,146651109-5,$6.68
+554,Capital Goods,UFPT,NASDAQ,"UFP Technologies, Inc.",145.101.83.202,Konklux,PHP,585710485-8,$8.24
+555,Health Care,VSAR,NASDAQ,"Versartis, Inc.",113.38.157.200,Ventosanzap,IDR,738642738-7,$8.87
+556,Health Care,KANG,NASDAQ,"iKang Healthcare Group, Inc.",241.186.239.255,Toughjoyfax,CNY,639065982-2,$3.67
+557,Consumer Durables,TGLS,NASDAQ,Tecnoglass Inc.,22.106.45.252,Voyatouch,XOF,701417869-5,$1.42
+558,Public Utilities,TSU,NYSE,TIM Participacoes S.A.,32.85.115.215,Redhold,IDR,419491346-9,$0.27
+559,Consumer Services,NHI,NYSE,"National Health Investors, Inc.",50.73.110.23,Home Ing,PYG,795771171-5,$0.83
+560,n/a,PAGG,NASDAQ,PowerShares Global Agriculture Portfolio,187.82.130.12,Fixflex,CNY,821261204-X,$9.61
+561,Energy,RDC,NYSE,Rowan Companies plc,35.8.21.30,Zoolab,AMD,319788330-6,$1.75
+562,n/a,ESGE,NASDAQ,iShares MSCI EM ESG Optimized ETF,123.197.117.30,Viva,EUR,454441903-4,$8.65
+563,Finance,CPAA,NASDAQ,Conyers Park Acquisition Corp.,160.102.113.115,Matsoft,RUB,920064215-2,$2.97
+564,Health Care,HAE,NYSE,Haemonetics Corporation,53.212.231.70,Latlux,CNY,394975152-1,$6.08
+565,n/a,VBF,NYSE,Invesco Bond Fund,195.149.84.15,Sonsing,EUR,565927105-7,$6.26
+566,Miscellaneous,FNJN,NASDAQ,"Finjan Holdings, Inc.",236.125.213.36,Konklab,IDR,120535215-5,$5.22
+567,Technology,SNCR,NASDAQ,"Synchronoss Technologies, Inc.",72.150.4.47,Aerified,UAH,421374025-0,$9.32
+568,Public Utilities,ARTNA,NASDAQ,Artesian Resources Corporation,19.168.79.109,Bitchip,IDR,167119966-9,$0.96
+569,n/a,IHD,NYSE,Voya Emerging Markets High Income Dividend Equity Fund,194.149.172.152,Domainer,DOP,888948025-4,$4.27
+570,Miscellaneous,MCHX,NASDAQ,"Marchex, Inc.",203.35.156.163,Alpha,RSD,411046274-6,$0.56
+571,Consumer Non-Durables,PVH,NYSE,PVH Corp.,22.225.76.141,Alphazap,BRL,795186878-7,$3.76
+572,Consumer Services,HRB,NYSE,"H&R Block, Inc.",166.118.45.246,Kanlam,RUB,253049499-1,$9.12
+573,Basic Industries,KGC,NYSE,Kinross Gold Corporation,87.5.150.184,Tempsoft,EUR,650474345-2,$1.12
+574,Technology,SOL,NYSE,Renesola Ltd.,223.187.60.21,Home Ing,THB,317574962-3,$0.33
+575,Health Care,IMMU,NASDAQ,"Immunomedics, Inc.",218.127.120.237,Treeflex,RUB,529660510-1,$0.14
+576,Consumer Services,WMT,NYSE,"Wal-Mart Stores, Inc.",9.107.197.0,Keylex,CNY,477561909-8,$0.08
+577,Consumer Services,BONT,NASDAQ,"The Bon-Ton Stores, Inc.",251.118.41.163,Opela,EUR,987540416-0,$7.50
+578,Health Care,RDUS,NASDAQ,"Radius Health, Inc.",23.143.43.41,Rank,CAD,561599613-7,$9.55
+579,n/a,GCV,NYSE,"Gabelli Convertible and Income Securities Fund, Inc. (The)",1.57.103.90,Konklab,THB,697303067-X,$3.35
+580,Technology,TDC,NYSE,Teradata Corporation,5.63.163.109,Subin,HNL,943418571-8,$2.89
+581,n/a,SAB,NYSE,Saratoga Investment Corp,253.231.154.170,Fix San,THB,373712351-9,$9.27
+582,Health Care,FLXN,NASDAQ,"Flexion Therapeutics, Inc.",84.134.135.168,Aerified,ILS,210141527-5,$0.84
+583,Technology,SHOP,NYSE,Shopify Inc.,58.112.107.39,Zamit,CNY,551192309-5,$6.03
+584,Capital Goods,AOBC,NASDAQ,American Outdoor Brands Corporation,191.117.85.175,Stringtough,MXN,904764269-4,$5.23
+585,Miscellaneous,VVI,NYSE,Viad Corp,57.211.118.242,Transcof,RUB,532426154-8,$3.14
+586,Technology,CAVM,NASDAQ,"Cavium, Inc.",59.34.29.42,Wrapsafe,EUR,779541020-0,$9.81
+587,Consumer Services,LRN,NYSE,K12 Inc,27.111.18.104,Aerified,CNY,371845555-2,$4.50
+588,Finance,FLIC,NASDAQ,The First of Long Island Corporation,216.106.19.143,Duobam,CNY,801197825-X,$1.20
+589,Basic Industries,LXU,NYSE,Lsb Industries Inc.,173.157.39.129,Bitchip,BOB,033649366-5,$5.86
+590,Basic Industries,DD,NYSE,E.I. du Pont de Nemours and Company,174.130.246.97,Transcof,IDR,124228541-5,$7.42
+591,Consumer Services,TSQ,NYSE,"Townsquare Media, Inc.",95.33.22.148,Home Ing,RUB,238235860-2,$2.10
+592,Technology,TRTN,NYSE,Triton International Limited,107.182.171.54,Regrant,NIO,512313220-1,$4.61
+593,Technology,ETN,NYSE,"Eaton Corporation, PLC",63.218.74.24,Vagram,CNY,413012008-5,$3.00
+594,n/a,MOG.B,NYSE,Moog Inc.,164.93.80.63,Lotlux,CNY,464424993-9,$6.50
+595,Energy,VTNR,NASDAQ,"Vertex Energy, Inc",38.248.47.86,Tres-Zap,TZS,110018710-3,$9.68
+596,Finance,GLBZ,NASDAQ,Glen Burnie Bancorp,146.93.27.212,Veribet,CNY,339322480-8,$9.00
+597,Consumer Services,SIRI,NASDAQ,Sirius XM Holdings Inc.,192.90.116.23,Aerified,EUR,629239513-8,$2.24
+598,Health Care,HRTX,NASDAQ,"Heron Therapeutics, Inc.  ",249.1.18.11,Toughjoyfax,CNY,232664702-5,$6.62
+599,Health Care,JNCE,NASDAQ,"Jounce Therapeutics, Inc.",242.195.39.179,Zamit,EUR,935315973-3,$8.26
+600,Finance,AAME,NASDAQ,Atlantic American Corporation,69.92.138.235,Bitwolf,UAH,267233376-9,$4.33
+601,Energy,GE,NYSE,General Electric Company,44.224.143.65,Opela,EUR,556436865-7,$4.43
+602,Technology,PSDO,NASDAQ,"Presidio, Inc.",51.198.197.90,Konklux,EUR,388373061-0,$3.70
+603,Health Care,SNSS,NASDAQ,"Sunesis Pharmaceuticals, Inc.",62.125.9.110,Span,RUB,907117994-X,$3.10
+604,n/a,MPV,NYSE,Barings Participation Investors,21.147.184.33,Kanlam,BRL,565187932-3,$3.39
+605,Transportation,NAO,NYSE,Nordic American Offshore Ltd,118.85.63.194,Span,CZK,160000347-8,$5.18
+606,n/a,SPE,NYSE,Special Opportunities Fund Inc.,114.43.77.237,Stringtough,CNY,976394905-X,$2.70
+607,Capital Goods,TATT,NASDAQ,TAT Technologies Ltd.,165.64.84.173,Sub-Ex,SEK,912156086-2,$2.86
+608,Capital Goods,UFPT,NASDAQ,"UFP Technologies, Inc.",254.184.189.220,Tres-Zap,CNY,489107116-8,$3.01
+609,Health Care,PEN,NYSE,"Penumbra, Inc.",192.85.226.211,Viva,CNY,459409107-5,$2.94
+610,Finance,ASBB,NASDAQ,"ASB Bancorp, Inc.",243.160.41.46,Temp,CNY,723962589-3,$0.82
+611,Consumer Services,IRET,NYSE,Investors Real Estate Trust,71.74.148.153,Zoolab,EGP,375516318-7,$0.00
+612,Finance,BHLB,NYSE,"Berkshire Hills Bancorp, Inc.",3.7.112.207,Flexidy,JPY,264780543-1,$1.92
+613,Capital Goods,ESL,NYSE,Esterline Technologies Corporation,215.230.86.172,Fix San,UAH,829895743-1,$4.83
+614,n/a,GS^K,NYSE,"Goldman Sachs Group, Inc. (The)",151.58.131.244,Y-Solowarm,CNY,347871795-7,$6.09
+615,Consumer Durables,ESE,NYSE,ESCO Technologies Inc.,115.244.21.47,Stim,VND,024591648-2,$8.73
+616,Technology,SYNA,NASDAQ,Synaptics Incorporated,126.93.237.58,Stim,CNY,360469662-3,$0.14
+617,Energy,CDEV,NASDAQ,"Centennial Resource Development, Inc.",153.52.254.98,Tin,CNY,866682651-7,$6.77
+618,Finance,FII,NYSE,"Federated Investors, Inc.",92.212.120.76,Fintone,USD,000061994-9,$1.93
+619,Consumer Durables,NXEO,NASDAQ,"Nexeo Solutions, Inc.",56.11.1.183,Mat Lam Tam,EUR,204415065-4,$8.39
+620,n/a,AMH^D,NYSE,American Homes 4 Rent,39.55.180.177,Cardguard,PLN,463563153-2,$7.90
+621,n/a,AHT^A,NYSE,Ashford Hospitality Trust Inc,199.119.70.60,Y-Solowarm,CNY,767529687-7,$5.48
+622,Finance,PNFP,NASDAQ,"Pinnacle Financial Partners, Inc.",186.176.64.234,Bitchip,EUR,983947704-8,$8.66
+623,n/a,FDUS,NASDAQ,Fidus Investment Corporation,81.48.238.204,Trippledex,USD,727059938-6,$8.25
+624,n/a,SCE^F,NYSE,Southern California Edison Company,141.155.48.49,Vagram,EUR,888323150-3,$2.80
+625,Transportation,NVGS,NYSE,Navigator Holdings Ltd.,192.123.10.58,Bitchip,PHP,762713345-9,$7.68
+626,n/a,FIV,NYSE,First Trust Senior Floating Rate 2022 Target Term Fund,255.197.198.199,Latlux,PHP,223412814-5,$9.86
+627,n/a,DHG,NYSE,"DWS High Income Opportunities Fund, Inc.",201.23.17.138,It,VEF,066400241-2,$7.52
+628,Energy,ARCH,NYSE,"Arch Coal, Inc.",3.96.149.204,Hatity,CNY,505874536-4,$7.70
+629,Energy,VLP,NYSE,Valero Energy Partners LP,235.202.33.241,Gembucket,ARS,606557085-0,$8.39
+630,Health Care,AAAP,NASDAQ,Advanced Accelerator Applications S.A.,167.12.172.95,Sonair,CNY,890907334-9,$8.55
+631,Finance,EMCF,NASDAQ,Emclaire Financial Corp,135.84.148.26,Stringtough,EUR,537933511-X,$0.59
+632,n/a,THW,NYSE,Tekla World Healthcare Fund,79.24.61.71,Rank,XOF,757063747-X,$1.13
+633,Energy,NBR,NYSE,Nabors Industries Ltd.,13.156.80.94,Home Ing,ARS,107890042-6,$1.33
+634,Finance,KAACU,NASDAQ,Kayne Anderson Acquisition Corp.,211.103.96.47,Zaam-Dox,USD,820986392-4,$7.02
+635,Finance,FRBK,NASDAQ,"Republic First Bancorp, Inc.",136.116.132.221,Zaam-Dox,MAD,169365693-0,$4.19
+636,Capital Goods,AP,NYSE,Ampco-Pittsburgh Corporation,151.47.8.217,Alpha,CNY,077927640-X,$6.20
+637,n/a,NXN,NYSE,Nuveen Insured New York Select Tax-Free Income Portfolio,211.182.161.41,Home Ing,IDR,614700788-2,$3.45
+638,Capital Goods,KOOL,NASDAQ,Cesca Therapeutics Inc.,221.4.227.239,Bitwolf,EUR,314845308-5,$5.81
+639,n/a,TCPC,NASDAQ,TCP Capital Corp.,220.90.178.21,Sonsing,CNY,188470783-1,$2.04
+640,Health Care,AET,NYSE,Aetna Inc.,133.122.10.25,Flexidy,CNY,735467809-0,$9.74
+641,Technology,RESN,NASDAQ,Resonant Inc.,236.150.13.205,Regrant,AMD,660063738-2,$2.15
+642,Miscellaneous,MARA,NASDAQ,"Marathon Patent Group, Inc.",179.218.111.3,Toughjoyfax,CNY,170442875-0,$9.82
+643,Transportation,CPA,NYSE,"Copa Holdings, S.A.",244.39.15.13,Alpha,PHP,489674782-8,$5.22
+644,n/a,AFW.CL,NYSE,"American Financial Group, Inc.",254.167.114.181,Lotstring,THB,665688493-8,$2.98
+645,Basic Industries,OCIP,NYSE,OCI Partners LP,9.146.50.44,Span,CNY,062737607-X,$8.30
+646,Health Care,IVTY,NASDAQ,"Invuity, Inc.",49.194.31.78,Y-Solowarm,IDR,558683630-0,$4.50
+647,Consumer Durables,ABB,NYSE,ABB Ltd,139.33.150.27,Prodder,GTQ,056773690-3,$4.26
+648,Consumer Services,SERV,NYSE,"ServiceMaster Global Holdings, Inc.",153.21.200.7,Lotstring,TZS,299028263-7,$6.26
+649,Consumer Services,DNKN,NASDAQ,"Dunkin' Brands Group, Inc.",39.10.68.211,Duobam,RUB,762918211-2,$7.70
+650,Finance,SFBC,NASDAQ,"Sound Financial Bancorp, Inc.",206.188.46.56,Overhold,CNY,065121966-3,$9.74
+651,Capital Goods,MOCO,NASDAQ,"MOCON, Inc.",23.227.211.142,Biodex,EUR,154831668-7,$5.75
+652,Technology,OMC,NYSE,Omnicom Group Inc.,147.93.206.77,Bamity,UAH,925194485-7,$5.31
+653,Energy,NRT,NYSE,North European Oil Royality Trust,140.60.128.194,Biodex,PHP,904915114-0,$8.62
+654,Capital Goods,CX,NYSE,Cemex S.A.B. de C.V.,60.46.18.56,Sub-Ex,XOF,499067459-6,$7.40
+655,Finance,ISM,NASDAQ,Navient Corporation,164.29.89.38,Daltfresh,CNY,243150782-3,$2.95
+656,Technology,MIXT,NYSE,MiX Telematics Limited,45.98.125.63,Bitwolf,RSD,745038154-0,$2.41
+657,Consumer Non-Durables,TPB,NYSE,"Turning Point Brands, Inc.",53.246.250.43,Pannier,IDR,331628413-3,$5.31
+658,Basic Industries,CRS,NYSE,Carpenter Technology Corporation,220.91.80.61,Sonair,PYG,348990181-9,$6.38
+659,Consumer Durables,PKG,NYSE,Packaging Corporation of America,136.78.236.124,Zaam-Dox,CNY,905438881-1,$2.75
+660,Consumer Services,GCO,NYSE,Genesco Inc.,53.88.4.251,Sonsing,CNY,315189371-6,$8.01
+661,Finance,FNTEW,NASDAQ,FinTech Acquisition Corp. II,62.204.8.31,Keylex,PHP,104574036-5,$7.06
+662,Finance,SBSI,NASDAQ,"Southside Bancshares, Inc.",136.252.52.158,Span,XOF,263872308-8,$7.95
+663,Technology,SYKE,NASDAQ,"Sykes Enterprises, Incorporated",126.230.23.143,Konklab,IRR,433833922-5,$2.79
+664,n/a,FRC^G,NYSE,FIRST REPUBLIC BANK,27.250.36.146,Asoka,IDR,179074092-4,$1.16
+665,n/a,IVFGC,NASDAQ,Ivy NextShares,167.211.35.105,Redhold,GMD,481535974-1,$0.16
+666,Finance,HFBL,NASDAQ,"Home Federal Bancorp, Inc. of Louisiana",60.147.133.204,Zamit,SEK,517014818-6,$3.06
+667,Finance,GLBR,NASDAQ,"Global Brokerage, Inc.",132.236.154.65,Redhold,RUB,832818568-7,$7.88
+668,Basic Industries,TNH,NYSE,"Terra Nitrogen Company, L.P.",174.196.64.175,Mat Lam Tam,MXN,359546374-9,$7.75
+669,Basic Industries,SSRI,NASDAQ,Silver Standard Resources Inc.,181.190.232.230,Overhold,PHP,421223001-1,$1.87
+670,n/a,AGZD,NASDAQ,WisdomTree Barclays Interest Rate Hedged U.S. Aggregate Bond F,94.174.102.94,Temp,PLN,943037975-5,$6.83
+671,n/a,GNMA,NASDAQ,iShares GNMA Bond ETF,119.122.189.46,Fintone,HTG,843409679-X,$2.81
+672,n/a,RFEM,NASDAQ,First Trust RiverFront Dynamic Emerging Markets ETF,119.99.145.182,Duobam,BRL,685909487-7,$2.64
+673,Technology,PCTY,NASDAQ,Paylocity Holding Corporation,141.174.189.218,Stringtough,USD,415616612-0,$9.35
+674,Technology,ENPH,NASDAQ,"Enphase Energy, Inc.",192.247.47.88,Solarbreeze,PHP,012191760-6,$3.28
+675,Capital Goods,SNHY,NASDAQ,Sun Hydraulics Corporation,152.193.51.88,Flowdesk,CNY,513353188-5,$6.59
+676,n/a,WFC^N,NYSE,Wells Fargo & Company,40.241.15.71,Flowdesk,UAH,934140294-8,$1.21
+677,Public Utilities,PCYO,NASDAQ,Pure Cycle Corporation,19.18.110.10,Lotlux,CNY,537326322-2,$0.05
+678,Health Care,GBT,NASDAQ,"Global Blood Therapeutics, Inc.",47.96.182.222,Job,PLN,454255134-2,$9.87
+679,Consumer Non-Durables,AWI,NYSE,Armstrong World Industries Inc,203.127.53.141,Kanlam,CZK,530643629-3,$8.35
+680,n/a,MVT,NYSE,"Blackrock MuniVest Fund II, Inc.",89.96.242.88,Stronghold,SEK,000959897-9,$3.47
+681,Transportation,ALGT,NASDAQ,Allegiant Travel Company,40.114.97.68,Keylex,ARS,996114985-8,$3.60
+682,Technology,ULTI,NASDAQ,"The Ultimate Software Group, Inc.",148.182.39.107,Fix San,IDR,580357620-4,$0.99
+683,Health Care,OMI,NYSE,"Owens & Minor, Inc.",71.147.247.104,Namfix,MGA,314996362-1,$0.17
+684,Consumer Services,NSR,NYSE,"Neustar, Inc.",234.217.139.135,Konklab,JPY,753762229-9,$5.46
+685,n/a,CLNS^H,NYSE,"Colony NorthStar, Inc.",104.213.78.86,Cardify,IDR,325576489-0,$2.74
+686,Basic Industries,GVA,NYSE,Granite Construction Incorporated,14.201.203.134,Span,EUR,630067142-9,$2.73
+687,Finance,VEACW,NASDAQ,Vantage Energy Acquisition Corp.,168.30.51.179,Cardguard,PLN,340741233-9,$8.06
+688,Energy,ISRL,NASDAQ,"Isramco, Inc.",77.127.154.166,Viva,TRY,026016012-1,$5.91
+689,n/a,BANC^D,NYSE,"Banc of California, Inc.",66.220.186.171,Mat Lam Tam,IDR,232310864-6,$4.68
+690,Technology,VECO,NASDAQ,Veeco Instruments Inc.,230.242.208.105,Wrapsafe,CNY,004599070-0,$4.82
+691,Consumer Non-Durables,TSN,NYSE,"Tyson Foods, Inc.",221.105.191.151,Redhold,VEF,094727086-8,$6.56
+692,Consumer Services,DDT,NYSE,"Dillard's, Inc.",207.234.250.186,Transcof,UAH,760688683-0,$9.14
+693,Technology,WATT,NASDAQ,Energous Corporation,35.17.99.32,Zontrax,CNY,155604313-9,$3.04
+694,Public Utilities,SPKE,NASDAQ,"Spark Energy, Inc.",238.187.40.238,Pannier,USD,080092969-1,$6.31
+695,Technology,CY,NASDAQ,Cypress Semiconductor Corporation,174.105.1.224,It,USD,401257214-8,$5.93
+696,n/a,ANH^C,NYSE,Anworth Mortgage Asset  Corporation,145.128.253.19,Voltsillam,NZD,691527507-X,$8.34
+697,n/a,AGO^B,NYSE,Assured Guaranty Ltd.,225.127.66.174,Tresom,CNY,047095130-3,$5.36
+698,Technology,KVHI,NASDAQ,"KVH Industries, Inc.",208.230.74.143,Veribet,BRL,534126043-0,$6.26
+699,Technology,SGMS,NASDAQ,Scientific Games Corp,181.35.214.146,It,IDR,031998661-6,$6.29
+700,Technology,PNTR,NASDAQ,Pointer Telocation Ltd.,116.195.19.179,Bytecard,PLN,456698854-6,$4.87
+701,Finance,ETFC,NASDAQ,E*TRADE Financial Corporation,128.234.128.102,Y-Solowarm,IDR,532267081-5,$3.71
+702,Finance,HJV,NYSE,MS Structured Asset Corp Saturns GE Cap Corp Series 2002-14,184.45.240.111,Lotlux,RSD,308011938-X,$4.81
+703,n/a,GAB^G,NYSE,"Gabelli Equity Trust, Inc. (The)",42.13.102.233,Asoka,IDR,248295510-6,$6.84
+704,Miscellaneous,SPEX,NASDAQ,Spherix Incorporated,152.58.11.238,Flowdesk,MXN,423459785-6,$6.47
+705,Technology,INTX,NASDAQ,"Intersections, Inc.",154.183.173.208,Alphazap,PHP,614781473-7,$6.12
+706,Transportation,ECHO,NASDAQ,"Echo Global Logistics, Inc.",108.20.36.62,Span,NOK,296223051-2,$5.57
+707,Finance,RNST,NASDAQ,Renasant Corporation,59.109.223.107,Kanlam,RUB,876670512-6,$6.59
+708,Consumer Services,BAH,NYSE,Booz Allen Hamilton Holding Corporation,173.181.50.196,Span,NPR,155063180-2,$8.39
+709,Energy,VLP,NYSE,Valero Energy Partners LP,90.161.183.28,Duobam,IDR,998548845-8,$5.17
+710,Energy,BPL,NYSE,Buckeye Partners L.P.,145.51.160.244,Bytecard,EUR,033294509-X,$8.69
+711,Health Care,IMMU,NASDAQ,"Immunomedics, Inc.",69.67.180.134,Ventosanzap,CNY,565859104-X,$3.96
+712,Consumer Services,CCO,NYSE,"Clear Channel Outdoor Holdings, Inc.",169.233.252.148,Prodder,EUR,088594338-4,$6.99
+713,Consumer Services,UNF,NYSE,Unifirst Corporation,34.6.243.37,Bamity,CNY,690746795-X,$3.74
+714,Capital Goods,PI,NASDAQ,"Impinj, Inc.",69.179.52.86,Subin,IRR,862182514-7,$8.93
+715,Consumer Services,PRTY,NYSE,Party City Holdco Inc.,92.42.186.77,Subin,JPY,969038559-3,$6.92
+716,Health Care,XENT,NASDAQ,"Intersect ENT, Inc.",227.225.199.190,Quo Lux,IDR,016391357-9,$7.47
+717,Technology,CLGX,NYSE,"CoreLogic, Inc.",122.202.189.191,Flexidy,CNY,502498306-8,$4.58
+718,Consumer Services,MMYT,NASDAQ,MakeMyTrip Limited,235.144.241.35,Sonair,XAF,477809757-2,$1.36
+719,Consumer Non-Durables,TYHT,NASDAQ,"Shineco, Inc.",196.140.43.185,Cardguard,USD,673369748-3,$8.37
+720,n/a,MTL^,NYSE,Mechel PAO,206.209.89.39,Rank,BRL,315875862-8,$7.28
+721,Capital Goods,CETXP,NASDAQ,Cemtrex Inc.,142.66.234.20,Tampflex,COP,694799906-5,$1.41
+722,Transportation,SHIP,NASDAQ,Seanergy Maritime Holdings Corp,104.242.199.135,Bytecard,IDR,148502671-7,$5.78
+723,Technology,MCHP,NASDAQ,Microchip Technology Incorporated,18.38.93.146,Treeflex,RUB,117578521-0,$5.29
+724,n/a,MBSD,NASDAQ,FlexShares Disciplined Duration MBS Index Fund,205.31.245.4,Daltfresh,PLN,773960635-9,$3.71
+725,Finance,FOR,NYSE,Forestar Group Inc,221.53.136.128,Tresom,CUP,979308621-1,$6.87
+726,n/a,EDBI,NASDAQ,Legg Mason Emerging Markets Diversified Core ETF,53.72.39.234,Transcof,AFN,142107266-1,$9.87
+727,Health Care,RIGL,NASDAQ,"Rigel Pharmaceuticals, Inc.",65.118.116.144,Treeflex,PEN,329585918-3,$9.94
+728,Capital Goods,HNH,NASDAQ,Handy & Harman Ltd.,50.186.192.159,Holdlamis,EUR,099939238-7,$3.35
+729,Finance,EQBK,NASDAQ,"Equity Bancshares, Inc.",106.205.249.208,Transcof,CZK,471965447-9,$2.40
+730,Health Care,DEPO,NASDAQ,"Depomed, Inc.",84.36.12.4,Duobam,GBP,978657400-1,$1.86
+731,Technology,VECO,NASDAQ,Veeco Instruments Inc.,231.223.17.69,Tres-Zap,MGA,379960468-5,$1.61
+732,Miscellaneous,NCTY,NASDAQ,The9 Limited,34.148.169.132,Zaam-Dox,CNY,269428418-3,$1.07
+733,Technology,AMAT,NASDAQ,"Applied Materials, Inc.",192.46.21.71,Cardguard,JPY,809321469-0,$8.84
+734,Consumer Services,MNR,NYSE,Monmouth Real Estate Investment Corporation,125.104.38.131,Matsoft,SEK,840625699-0,$8.71
+735,Consumer Durables,ETH,NYSE,Ethan Allen Interiors Inc.,244.92.61.116,Kanlam,BRL,269541904-X,$7.74
+736,n/a,AGO^F,NYSE,Assured Guaranty Ltd.,147.191.206.137,Holdlamis,PLN,123548533-1,$7.62
+737,Health Care,HRTX,NASDAQ,"Heron Therapeutics, Inc.  ",8.97.10.168,Bitchip,SAR,243177222-5,$7.17
+738,Technology,SGH,NASDAQ,"SMART Global Holdings, Inc.",151.110.89.163,Bamity,UZS,452716492-9,$9.35
+739,n/a,SAN^C,NYSE,"Banco Santander, S.A.",231.226.95.12,Toughjoyfax,KRW,331487249-6,$5.94
+740,Technology,SIGM,NASDAQ,"Sigma Designs, Inc.",36.121.244.7,Keylex,CZK,745917150-6,$3.22
+741,Energy,BBL,NYSE,BHP Billiton plc,249.27.210.120,It,MDL,733200821-1,$1.23
+742,Basic Industries,LEN,NYSE,Lennar Corporation,220.56.175.50,Stim,CNY,772357519-X,$2.89
+743,Consumer Durables,VCRA,NYSE,"Vocera Communications, Inc.",214.9.118.6,Vagram,NGN,748043689-0,$3.34
+744,Capital Goods,TRMB,NASDAQ,Trimble Inc.,143.113.164.188,Sonsing,PHP,770610063-4,$5.46
+745,Consumer Services,NHI,NYSE,"National Health Investors, Inc.",93.253.73.27,Keylex,RUB,736253229-6,$2.22
+746,Finance,FBNK,NASDAQ,"First Connecticut Bancorp, Inc.",167.111.2.205,Bitwolf,IDR,633534171-9,$7.47
+747,Public Utilities,ELP,NYSE,Companhia Paranaense de Energia (COPEL),2.240.142.206,Flowdesk,UAH,662376165-9,$7.00
+748,Technology,AIRG,NASDAQ,"Airgain, Inc.",126.39.236.93,Sonair,EUR,663715454-7,$7.56
+749,Basic Industries,TWI,NYSE,"Titan International, Inc.",37.186.57.157,Viva,PHP,029780375-1,$6.06
+750,Consumer Services,IRCP,NASDAQ,IRSA Propiedades Comerciales S.A.,150.19.243.2,Holdlamis,PEN,340174341-4,$1.39
+751,n/a,TCF^B,NYSE,TCF Financial Corporation,164.23.195.249,Rank,XAF,018044705-X,$4.48
+752,Energy,DWSN,NASDAQ,Dawson Geophysical Company,223.61.144.252,Vagram,MGA,098306060-6,$7.02
+753,n/a,QTEC,NASDAQ,First Trust NASDAQ-100- Technology Index Fund,98.125.154.194,Viva,IDR,388668232-3,$4.04
+754,Consumer Services,QSR,NYSE,Restaurant Brands International Inc.,31.154.0.167,Zamit,KZT,671789370-2,$3.43
+755,n/a,CLA.CL,NYSE,Capitala Finance Corp.,234.161.205.10,Regrant,EUR,580482616-6,$2.02
+756,Finance,EIG,NYSE,Employers Holdings Inc,4.16.103.65,Otcom,XAF,749558633-8,$1.97
+757,Consumer Services,FOX,NASDAQ,"Twenty-First Century Fox, Inc.",133.0.240.102,Cardify,IDR,845373803-3,$5.00
+758,Finance,TCFC,NASDAQ,The Community Financial Corporation,208.113.244.14,Fixflex,IDR,793582245-X,$9.64
+759,Consumer Services,WYNN,NASDAQ,"Wynn Resorts, Limited",220.187.119.186,Konklab,PEN,639639254-2,$4.02
+760,Finance,FCAP,NASDAQ,"First Capital, Inc.",77.24.126.118,Flowdesk,EUR,763897215-5,$5.80
+761,Public Utilities,GPE^A,NYSE,Georgia Power Company,20.89.155.133,Mat Lam Tam,JPY,296009388-7,$5.38
+762,Finance,WFBI,NASDAQ,WashingtonFirst Bankshares Inc,54.60.63.78,Cardguard,CZK,085575059-6,$5.36
+763,Health Care,CXRX,NASDAQ,Concordia International Corp.,152.202.69.110,Biodex,ARS,943827221-6,$7.37
+764,Health Care,LIVN,NASDAQ,LivaNova PLC,31.46.123.141,Temp,RUB,116885148-3,$6.91
+765,n/a,FCVT,NASDAQ,First Trust SSI Strategic Convertible Securities ETF,35.161.44.89,Opela,THB,180303889-6,$9.47
+766,Consumer Non-Durables,IBA,NYSE,"Industrias Bachoco, S.A. de C.V.",46.155.107.198,It,IDR,154533996-1,$5.96
+767,n/a,AXS^D,NYSE,Axis Capital Holdings Limited,166.12.204.245,Bitwolf,CLP,395305521-6,$5.82
+768,n/a,BML^G,NYSE,Bank of America Corporation,150.180.105.240,Tampflex,EUR,996380322-9,$5.22
+769,Consumer Services,KEN,NYSE,Kenon Holdings Ltd.,220.141.52.125,Otcom,EUR,936989513-2,$2.26
+770,Health Care,PBYI,NASDAQ,Puma Biotechnology Inc,176.159.85.94,Daltfresh,EUR,105459922-X,$6.35
+771,Health Care,RXII,NASDAQ,RXi Pharmaceuticals Corporation,53.189.19.156,Hatity,PLN,958044203-7,$7.80
+772,n/a,CSWC,NASDAQ,Capital Southwest Corporation,16.85.197.156,Overhold,IDR,912577337-2,$2.29
+773,Miscellaneous,NLSN,NYSE,Nielsen N.V.,210.167.95.8,Wrapsafe,JPY,981799307-8,$9.05
+774,n/a,HCN^I,NYSE,Welltower Inc.,116.91.84.3,Tresom,RUB,227243961-6,$1.83
+775,Finance,GSHT,NASDAQ,"Gores Holdings II, Inc.",133.100.184.3,Tres-Zap,IDR,853643768-5,$0.71
+776,Public Utilities,CHL,NYSE,China Mobile (Hong Kong) Ltd.,53.215.43.148,Wrapsafe,CNY,222219193-9,$3.18
+777,Health Care,GCVRZ,NASDAQ,Sanofi,127.152.105.203,Latlux,XAF,076630687-9,$6.49
+778,Basic Industries,IP,NYSE,International Paper Company,118.181.135.169,Mat Lam Tam,NGN,211588196-6,$1.83
+779,Basic Industries,FBHS,NYSE,"Fortune Brands Home & Security, Inc.",213.63.17.51,Bamity,PHP,704418849-4,$9.62
+780,Consumer Services,DISCA,NASDAQ,"Discovery Communications, Inc.",132.196.14.144,Daltfresh,CNY,867650162-9,$6.30
+781,Finance,HDB,NYSE,HDFC Bank Limited,66.224.170.7,Solarbreeze,CAD,226563685-1,$9.49
+782,n/a,JTD,NYSE,Nuveen Tax-Advantaged Dividend Growth Fund,157.103.45.10,Subin,HTG,211812304-3,$9.27
+783,Technology,SXI,NYSE,Standex International Corporation,121.181.7.165,Y-find,ARS,094983458-0,$2.78
+784,Public Utilities,ENBL,NYSE,"Enable Midstream Partners, LP",48.198.252.115,Mat Lam Tam,CNY,511748607-2,$9.02
+785,Capital Goods,CLIR,NASDAQ,ClearSign Combustion Corporation,116.170.10.54,Rank,IDR,554086856-0,$3.33
+786,Consumer Services,LTBR,NASDAQ,Lightbridge Corporation,219.45.47.200,Tampflex,VND,615933529-4,$9.79
+787,Technology,PNR,NYSE,Pentair plc.,187.181.231.19,Greenlam,MNT,908078072-3,$1.81
+788,Technology,CERN,NASDAQ,Cerner Corporation,117.151.198.24,Bigtax,IDR,584628586-4,$8.08
+789,Capital Goods,FCAU,NYSE,Fiat Chrysler Automobiles N.V.,30.157.83.44,Cookley,LYD,456369473-8,$8.47
+790,Finance,ACBI,NASDAQ,"Atlantic Capital Bancshares, Inc.",54.110.178.5,Home Ing,IDR,485528068-2,$8.81
+791,n/a,AXS^D,NYSE,Axis Capital Holdings Limited,34.179.190.61,Job,HNL,103282518-9,$4.49
+792,Finance,CPF,NYSE,CPB Inc.,77.220.179.74,Zamit,THB,653241486-7,$2.34
+793,Consumer Services,YELP,NYSE,Yelp Inc.,178.91.12.15,Sub-Ex,IDR,154918358-3,$4.70
+794,Consumer Services,GLOP,NYSE,GasLog Partners LP,152.113.142.35,Andalax,IDR,334126324-1,$3.11
+795,Technology,CNIT,NASDAQ,"China Information Technology, Inc.",116.46.216.240,Duobam,LTL,732613433-2,$5.36
+796,Transportation,SSWN,NYSE,Seaspan Corporation,53.179.199.223,Aerified,GHS,414398234-X,$0.69
+797,Finance,CMA,NYSE,Comerica Incorporated,93.132.237.145,Vagram,HRK,214565401-1,$8.46
+798,Public Utilities,CMS,NYSE,CMS Energy Corporation,100.123.130.225,Stim,PHP,569020603-2,$7.70
+799,Consumer Durables,TGLS,NASDAQ,Tecnoglass Inc.,196.226.107.218,Bitwolf,CNY,333086120-7,$6.70
+800,Consumer Services,COR,NYSE,CoreSite Realty Corporation,98.78.18.74,Y-find,EUR,586756414-2,$4.31
+801,Consumer Durables,SCSS,NASDAQ,Select Comfort Corporation,228.38.110.108,Span,CUP,202467974-9,$6.52
+802,n/a,SCM,NYSE,Stellus Capital Investment Corporation,149.65.76.95,Bamity,BRL,814125891-5,$2.96
+803,Consumer Non-Durables,GIS,NYSE,"General Mills, Inc.",180.143.4.68,Toughjoyfax,KMF,986882209-2,$8.20
+804,Consumer Services,DLR,NYSE,"Digital Realty Trust, Inc.",212.222.199.181,Stringtough,CNY,667617827-3,$3.57
+805,Finance,MCY,NYSE,Mercury General Corporation,128.101.2.229,Holdlamis,JPY,031973492-7,$7.56
+806,Finance,TPRE,NYSE,Third Point Reinsurance Ltd.,253.77.25.27,Gembucket,CNY,385153291-0,$5.48
+807,Energy,WG,NYSE,"Willbros Group, Inc.",146.24.210.226,Cookley,CNY,803362907-X,$2.69
+808,Consumer Services,PMT,NYSE,PennyMac Mortgage Investment Trust,182.67.124.2,Otcom,RUB,570819839-7,$3.77
+809,Technology,DGLT,NASDAQ,"Digiliti Money Group, Inc.",44.96.95.62,Solarbreeze,EUR,622854948-0,$4.19
+810,Consumer Services,ANF,NYSE,Abercrombie & Fitch Company,216.191.168.183,Aerified,KZT,920022683-3,$9.48
+811,Miscellaneous,MELI,NASDAQ,"MercadoLibre, Inc.",18.168.220.229,Bytecard,IDR,444621096-3,$9.58
+812,Technology,AMBR,NYSE,"Amber Road, Inc.",137.181.47.24,Viva,CNY,589149543-0,$5.27
+813,Consumer Non-Durables,UG,NASDAQ,"United-Guardian, Inc.",59.148.21.74,Span,EUR,947622041-4,$1.71
+814,Technology,TECD,NASDAQ,Tech Data Corporation,255.1.29.211,Wrapsafe,RUB,799993020-2,$7.68
+815,Health Care,ARQL,NASDAQ,"ArQule, Inc.",105.92.136.231,Holdlamis,VEF,576507399-9,$7.16
+816,Health Care,VCEL,NASDAQ,Vericel Corporation,40.233.199.187,Mat Lam Tam,PHP,977323558-0,$1.54
+817,Consumer Non-Durables,AFI,NYSE,"Armstrong Flooring, Inc.",1.87.100.187,Asoka,PYG,584768239-5,$6.00
+818,n/a,NEE^H,NYSE,"NextEra Energy, Inc.",176.83.140.64,Y-find,PLN,720851834-3,$4.75
+819,n/a,IID,NYSE,Voya International High Dividend Equity Income Fund,13.4.170.121,Transcof,UGX,826931316-5,$4.58
+820,Finance,PFBI,NASDAQ,"Premier Financial Bancorp, Inc.",64.109.90.140,Hatity,CNY,943624177-1,$2.53
+821,n/a,FLAG,NASDAQ,WeatherStorm Forensic Accounting Long Short ETF,67.53.16.8,Fixflex,EUR,419167133-2,$1.65
+822,Consumer Services,BIG,NYSE,"Big Lots, Inc.",187.151.125.43,Viva,EUR,219507566-X,$6.26
+823,Technology,GDDY,NYSE,GoDaddy Inc.,155.56.136.216,Aerified,PKR,430240240-7,$0.48
+824,Consumer Durables,XGTIW,NASDAQ,"XG Technology, Inc",167.36.223.200,Tres-Zap,COP,389651200-5,$6.76
+825,Basic Industries,UN,NYSE,Unilever NV,94.76.242.178,Zathin,UAH,755969744-5,$7.93
+826,Basic Industries,FMC,NYSE,FMC Corporation,71.114.41.224,Kanlam,NIO,775325993-8,$7.75
+827,n/a,BBK,NYSE,Blackrock Municipal Bond Trust,185.54.164.84,Zathin,IDR,510752157-6,$9.95
+828,n/a,SOV^C,NYSE,"Santander Holdings USA, Inc.",199.201.156.225,Matsoft,CNY,251415506-1,$9.86
+829,Energy,WFT,NYSE,Weatherford International plc,25.148.68.134,Fintone,USD,925382049-7,$5.82
+830,Consumer Services,FAST,NASDAQ,Fastenal Company,113.184.28.135,Bitwolf,SEK,550524640-0,$0.21
+831,Finance,DGLD,NASDAQ,VelocityShares 3x Inverse Gold ETN,54.246.41.226,Regrant,MXN,621385865-2,$7.09
+832,Health Care,VNDA,NASDAQ,Vanda Pharmaceuticals Inc.,164.10.252.116,Andalax,BOB,668663822-6,$1.67
+833,Health Care,LXRX,NASDAQ,"Lexicon Pharmaceuticals, Inc.",116.239.147.33,Veribet,EUR,066667601-1,$5.82
+834,Finance,MOFG,NASDAQ,"MidWestOne Financial Group, Inc.",130.153.206.160,Konklab,IDR,333836685-X,$0.18
+835,Capital Goods,LNN,NYSE,Lindsay Corporation,2.200.135.123,Sub-Ex,USD,006734861-0,$8.92
+836,Health Care,PETS,NASDAQ,"PetMed Express, Inc.",80.223.14.148,Tres-Zap,ARS,068557399-0,$8.24
+837,Health Care,NRCIB,NASDAQ,National Research Corporation,64.116.190.142,Konklux,USD,009004740-0,$7.68
+838,Consumer Services,AGNCB,NASDAQ,AGNC Investment Corp.,58.147.168.4,Stringtough,PEN,884726239-9,$9.88
+839,n/a,PSB^W,NYSE,"PS Business Parks, Inc.",37.141.57.238,Trippledex,PHP,447376739-6,$7.48
+840,Finance,STT,NYSE,State Street Corporation,75.97.41.146,Pannier,CNY,630412815-0,$7.65
+841,Energy,WRD,NYSE,WildHorse Resource Development Corporation,245.254.3.190,Namfix,UAH,283530636-6,$6.25
+842,Energy,BTE,NYSE,Baytex Energy Corp,194.15.196.171,Tampflex,PHP,592821457-X,$7.54
+843,n/a,JSD,NYSE,Nuveen Short Duration Credit Opportunities Fund,115.147.131.92,Veribet,CNY,517982610-1,$1.54
+844,Technology,PRFT,NASDAQ,"Perficient, Inc.",38.11.8.4,Zathin,USD,238289837-2,$7.42
+845,Basic Industries,CRS,NYSE,Carpenter Technology Corporation,62.229.141.38,Vagram,SEK,236222727-8,$5.15
+846,Consumer Durables,GPI,NYSE,"Group 1 Automotive, Inc.",98.240.161.144,Daltfresh,CNY,483768995-7,$0.39
+847,Consumer Non-Durables,ABEV,NYSE,Ambev S.A.,87.89.78.161,Flexidy,CNY,421279281-8,$8.64
+848,n/a,ENH^C,NYSE,Endurance Specialty Holdings Ltd,142.141.26.219,Mat Lam Tam,BRL,178201612-0,$0.72
+849,Health Care,SCYX,NASDAQ,"SCYNEXIS, Inc.",180.211.127.202,Voyatouch,TZS,521893794-0,$1.74
+850,n/a,FLY,NYSE,Fly Leasing Limited,185.34.119.4,Aerified,THB,271056851-9,$5.57
+851,Public Utilities,DTQ,NYSE,DTE Energy Company,75.200.102.228,Bitchip,CNY,993590221-8,$8.14
+852,Transportation,EURN,NYSE,Euronav NV,216.206.27.11,Flexidy,CNY,779403913-4,$8.37
+853,n/a,KYN^F,NYSE,Kayne Anderson MLP Investment Company,137.43.196.56,Sub-Ex,EUR,675876233-5,$0.98
+854,n/a,JEQ,NYSE,"Aberdeen Japan Equity Fund, Inc. ",61.199.238.106,Flexidy,RSD,936830341-X,$3.96
+855,Basic Industries,TNH,NYSE,"Terra Nitrogen Company, L.P.",108.249.95.0,Bigtax,CNY,967734380-7,$0.66
+856,n/a,MSF,NYSE,"Morgan Stanley Emerging Markets Fund, Inc.",243.134.17.76,Bytecard,IDR,848306942-3,$4.83
+857,Miscellaneous,VVI,NYSE,Viad Corp,191.246.212.108,Temp,IDR,576008576-X,$7.44
+858,Basic Industries,CVA,NYSE,Covanta Holding Corporation,179.116.250.93,Bitchip,CNY,852895898-1,$3.46
+859,Consumer Services,SFM,NASDAQ,"Sprouts Farmers Market, Inc.",124.184.54.211,Vagram,BOB,162779720-3,$9.41
+860,Energy,TLP,NYSE,TransMontaigne Partners L.P.,155.53.100.223,Y-Solowarm,RUB,042570376-2,$9.73
+861,Health Care,CRME,NASDAQ,Cardiome Pharma Corporation,123.3.245.161,Bytecard,UAH,436812386-7,$9.60
+862,Health Care,EVHC,NYSE,Envision Healthcare Corporation,116.168.168.98,Zontrax,HNL,095850193-9,$6.44
+863,Health Care,WMGIZ,NASDAQ,Wright Medical Group N.V.,125.141.67.230,Veribet,EUR,436499335-2,$1.58
+864,Finance,RNDB,NASDAQ,"Randolph Bancorp, Inc.",46.109.194.216,Rank,BYR,553008093-6,$2.56
+865,Finance,CIA,NYSE,"Citizens, Inc.",188.38.60.207,Bigtax,USD,378049794-8,$3.57
+866,Transportation,GOL,NYSE,Gol Linhas Aereas Inteligentes S.A.,88.75.151.187,Redhold,ALL,056495585-X,$2.45
+867,Health Care,GBT,NASDAQ,"Global Blood Therapeutics, Inc.",242.182.223.55,Flowdesk,EUR,606844778-2,$4.55
+868,n/a,EPR^E,NYSE,EPR Properties,180.39.57.50,Konklab,CNY,615824736-7,$9.72
+869,Miscellaneous,CCRC,NASDAQ,"China Customer Relations Centers, Inc.",232.193.31.182,Toughjoyfax,IDR,509023170-2,$1.89
+870,Health Care,QDEL,NASDAQ,Quidel Corporation,79.109.186.29,Domainer,NGN,441225331-7,$8.95
+871,Finance,AWH,NYSE,"Allied World Assurance Company Holdings, AG",46.202.129.88,Treeflex,CNY,484363358-5,$3.39
+872,Finance,SFBC,NASDAQ,"Sound Financial Bancorp, Inc.",40.193.89.44,Pannier,RUB,422939177-3,$8.16
+873,Health Care,BYSI,NASDAQ,"BeyondSpring, Inc.",196.108.20.156,Stim,USD,857361280-0,$0.43
+874,Finance,RBCAA,NASDAQ,"Republic Bancorp, Inc.",98.30.150.192,Treeflex,MUR,259979941-4,$0.64
+875,Finance,CNOB,NASDAQ,"ConnectOne Bancorp, Inc.",40.82.196.125,Transcof,MKD,299550296-1,$5.89
+876,Finance,GBCI,NASDAQ,"Glacier Bancorp, Inc.",194.78.226.200,Andalax,AFN,735703730-4,$6.43
+877,Consumer Services,DX,NYSE,"Dynex Capital, Inc.",149.251.215.75,Cardify,EUR,886819564-X,$7.12
+878,Consumer Durables,KMB,NYSE,Kimberly-Clark Corporation,221.251.201.54,Stronghold,RUB,675564916-3,$8.42
+879,n/a,COMT,NASDAQ,iShares Commodities Select Strategy ETF,116.5.227.92,Andalax,EUR,129938171-5,$2.50
+880,Finance,KW,NYSE,Kennedy-Wilson Holdings Inc.,216.254.113.244,Pannier,USD,887032955-0,$4.11
+881,Consumer Services,BWLD,NASDAQ,"Buffalo Wild Wings, Inc.",114.164.101.166,Konklab,SZL,431858958-7,$4.51
+882,Capital Goods,GTLS,NASDAQ,"Chart Industries, Inc.",127.124.248.178,Toughjoyfax,IDR,529954638-6,$2.36
+883,Finance,PMTS,NASDAQ,CPI Card Group Inc.,233.242.247.174,Greenlam,IDR,993328257-3,$3.64
+884,Capital Goods,SHLO,NASDAQ,"Shiloh Industries, Inc.",49.86.49.70,Treeflex,CAD,032888904-0,$2.86
+885,Basic Industries,ALB,NYSE,Albemarle Corporation,26.57.139.199,Bitchip,UAH,693759191-8,$7.76
+886,n/a,MH^C,NYSE,"Maiden Holdings, Ltd.",238.6.43.27,Tresom,EUR,874056168-2,$3.69
+887,Finance,NGHCO,NASDAQ,National General Holdings Corp,39.251.217.170,Subin,CLP,081107854-X,$3.73
+888,Technology,INTX,NASDAQ,"Intersections, Inc.",99.223.198.92,Domainer,PHP,885905285-8,$7.67
+889,Consumer Durables,RBC,NYSE,Regal Beloit Corporation,232.139.63.163,Duobam,IRR,494032866-X,$9.49
+890,Public Utilities,USM,NYSE,United States Cellular Corporation,64.18.152.59,Asoka,CNY,777357197-X,$2.13
+891,Basic Industries,PVG,NYSE,"Pretium Resources, Inc.",121.191.178.104,Viva,UGX,383478510-5,$3.19
+892,Basic Industries,TS,NYSE,Tenaris S.A.,73.199.1.195,Lotlux,CNY,494080176-4,$4.41
+893,Consumer Non-Durables,KHC,NASDAQ,The Kraft Heinz Company,73.221.28.20,Tresom,PLN,476256363-3,$0.62
+894,Finance,VLY^A,NYSE,Valley National Bancorp,112.253.63.64,Alpha,IDR,306550824-9,$1.32
+895,Finance,LAZ,NYSE,Lazard Ltd.,214.183.133.183,Konklab,UAH,053642100-5,$7.76
+896,Consumer Services,LBTYK,NASDAQ,Liberty Global plc,178.233.108.87,Y-Solowarm,IDR,458726570-5,$2.19
+897,Basic Industries,LNDC,NASDAQ,Landec Corporation,161.232.169.254,Opela,UAH,825503269-X,$7.46
+898,n/a,KBWD,NASDAQ,PowerShares KBW High Dividend Yield Financial Portfolio,74.145.232.232,Tresom,DOP,836556144-1,$5.98
+899,Finance,GOVNI,NASDAQ,Government Properties Income Trust,87.165.93.135,Rank,PLN,286951848-X,$9.13
+900,Miscellaneous,HRG,NYSE,"HRG Group, Inc.",133.210.238.62,Overhold,CNY,686647634-8,$7.65
+901,n/a,NHF,NYSE,Highland Funds I,192.182.148.11,Stringtough,DOP,502883517-9,$4.19
+902,Capital Goods,VJET,NYSE,voxeljet AG,114.155.37.145,Konklux,EUR,707121765-3,$5.59
+903,Finance,WYIGW,NASDAQ,JM Global Holding Company,133.232.66.213,Ventosanzap,PHP,590410730-7,$3.70
+904,Technology,SLAB,NASDAQ,"Silicon Laboratories, Inc.",44.140.193.195,Toughjoyfax,CAD,747701993-1,$6.95
+905,n/a,TEI,NYSE,"Templeton Emerging Markets Income Fund, Inc.",119.2.91.127,Fix San,IDR,690692216-5,$3.08
+906,Health Care,VKTXW,NASDAQ,"Viking Therapeutics, Inc.",58.198.52.3,Bamity,EUR,139280868-5,$2.87
+907,Finance,CNS,NYSE,Cohen & Steers Inc,195.22.254.28,Lotlux,RUB,613513032-3,$0.68
+908,Consumer Services,SERV,NYSE,"ServiceMaster Global Holdings, Inc.",90.140.36.245,Keylex,EUR,103932415-0,$0.33
+909,Technology,WB,NASDAQ,Weibo Corporation,50.222.208.214,Zontrax,SEK,349527223-2,$4.25
+910,n/a,FITS,NASDAQ,The Health and Fitness ETF,70.116.75.191,Overhold,USD,167594119-X,$3.14
+911,n/a,LALT,NASDAQ,PowerShares Multi-Strategy Alternative Portfolio,36.195.160.180,Alpha,CDF,754086077-4,$0.53
+912,Public Utilities,PNW,NYSE,Pinnacle West Capital Corporation,238.192.118.17,Cardify,IDR,233707199-5,$5.38
+913,n/a,GCV,NYSE,"Gabelli Convertible and Income Securities Fund, Inc. (The)",202.23.110.109,Cookley,CNY,813545153-9,$8.46
+914,n/a,SCE^G,NYSE,Southern California Edison Company,198.183.119.36,Flexidy,PHP,204569497-6,$6.19
+915,Basic Industries,BDC,NYSE,Belden Inc,194.166.83.150,Ventosanzap,RUB,696611990-3,$4.02
+916,Finance,BOCH,NASDAQ,Bank of Commerce Holdings (CA),56.245.226.118,Solarbreeze,CNY,505572599-0,$1.72
+917,n/a,GEF,NYSE,Greif Bros. Corporation,48.179.36.246,Home Ing,EUR,459293647-7,$8.62
+918,n/a,NEE^G,NYSE,"NextEra Energy, Inc.",225.173.71.7,Cardify,CNY,092111652-7,$8.92
+919,Consumer Services,SPWH,NASDAQ,"Sportsman's Warehouse Holdings, Inc.",37.250.75.187,Tempsoft,PHP,184593800-3,$5.08
+920,Technology,CYRN,NASDAQ,CYREN Ltd.,240.25.155.9,Daltfresh,CNY,808607157-X,$1.63
+921,Basic Industries,TWI,NYSE,"Titan International, Inc.",55.18.190.50,Home Ing,PLN,534034524-6,$8.80
+922,Basic Industries,STLD,NASDAQ,"Steel Dynamics, Inc.",4.219.58.28,Ventosanzap,SEK,705200280-9,$4.57
+923,n/a,FT,NYSE,Franklin Universal Trust,254.250.132.129,Zaam-Dox,PHP,527030372-8,$10.00
+924,Public Utilities,DCUC,NYSE,"Dominion Energy, Inc.",92.152.130.90,Bigtax,EUR,273050466-4,$5.34
+925,Public Utilities,CNP,NYSE,"CenterPoint Energy, Inc.",144.153.116.166,Lotstring,CNY,402685276-8,$6.74
+926,Technology,NVDA,NASDAQ,NVIDIA Corporation,204.69.24.132,Voyatouch,RUB,973948869-2,$7.50
+927,n/a,HE^U,NYSE,"Hawaiian Electric Industries, Inc.",4.138.18.94,Transcof,HNL,182371956-2,$9.52
+928,Capital Goods,ARCW,NASDAQ,"ARC Group Worldwide, Inc.",31.76.111.248,Toughjoyfax,USD,396494512-9,$5.84
+929,Consumer Durables,HOFT,NASDAQ,Hooker Furniture Corporation,104.188.184.184,Stringtough,SOS,546098599-4,$8.58
+930,Consumer Non-Durables,MOV,NYSE,Movado Group Inc.,79.175.129.75,Flowdesk,GBP,616792292-6,$4.26
+931,Finance,XBKS,NASDAQ,"Xenith Bankshares, Inc.",113.170.156.130,Viva,PHP,667985637-X,$7.47
+932,n/a,OFS,NASDAQ,OFS Capital Corporation,156.172.220.125,Ronstring,EUR,617457441-5,$2.01
+933,Basic Industries,BLD,NYSE,TopBuild Corp.,15.249.220.135,Fix San,PAB,691985225-X,$5.29
+934,Energy,NRT,NYSE,North European Oil Royality Trust,211.244.125.214,Sonsing,NGN,462152565-4,$0.14
+935,Capital Goods,FSS,NYSE,Federal Signal Corporation,3.107.91.248,Span,IDR,831073420-4,$1.55
+936,n/a,TTP,NYSE,"Tortoise Pipeline & Energy Fund, Inc.",233.158.155.231,Veribet,EUR,658866732-9,$2.98
+937,Finance,C^K,NYSE,Citigroup Inc.,181.205.147.40,Domainer,CUP,198984847-8,$4.71
+938,Consumer Non-Durables,CL,NYSE,Colgate-Palmolive Company,233.47.22.50,Cardguard,CNY,445481803-7,$3.43
+939,Technology,KVHI,NASDAQ,"KVH Industries, Inc.",95.184.27.103,Fixflex,EUR,122779123-2,$3.80
+940,Consumer Services,RLJ,NYSE,RLJ Lodging Trust,231.229.122.28,Zoolab,USD,536089113-0,$6.42
+941,Health Care,TCMD,NASDAQ,"Tactile Systems Technology, Inc.",86.24.123.98,Ventosanzap,COP,976137141-7,$7.10
+942,Finance,PFH,NYSE,CABCO Series 2004-101 Trust,90.55.248.50,Holdlamis,PAB,090162721-6,$7.19
+943,Consumer Non-Durables,PM,NYSE,Philip Morris International Inc,173.54.161.187,Solarbreeze,PAB,707082011-9,$1.93
+944,Energy,BPL,NYSE,Buckeye Partners L.P.,94.33.44.160,Sub-Ex,CUP,673832350-6,$9.09
+945,Capital Goods,AP,NYSE,Ampco-Pittsburgh Corporation,64.74.7.85,Cardify,COP,446786050-9,$6.38
+946,Finance,ALLY,NYSE,Ally Financial Inc.,102.75.104.192,Alpha,IDR,326938013-5,$0.26
+947,Consumer Services,FL,NYSE,"Foot Locker, Inc.",71.201.63.142,Matsoft,ZAR,616551724-2,$7.84
+948,Public Utilities,LVLT,NYSE,"Level 3 Communications, Inc.",87.157.57.64,Andalax,CNY,699411541-0,$4.95
+949,Finance,NTP,NYSE,Nam Tai Property Inc.,123.169.176.132,Kanlam,VND,115671491-5,$7.82
+950,n/a,NEE^Q,NYSE,"NextEra Energy, Inc.",92.203.249.48,Daltfresh,EUR,683679073-7,$8.14
+951,Capital Goods,KLXI,NASDAQ,KLX Inc.,248.209.64.140,Stringtough,SEK,753143690-6,$1.70
+952,Consumer Services,PLYA,NASDAQ,Playa Hotels & Resorts N.V.,115.5.193.37,Bytecard,ARS,133005770-8,$6.77
+953,n/a,DTLA^,NYSE,Brookfield DTLA Inc.,125.154.119.192,Lotlux,ALL,843383189-5,$7.72
+954,n/a,GDV^A,NYSE,Gabelli Dividend,37.185.22.177,Kanlam,USD,417404228-4,$1.14
+955,Consumer Non-Durables,AGRO,NYSE,Adecoagro S.A.,213.231.131.4,Span,IDR,418977212-7,$8.49
+956,Finance,AHPAW,NASDAQ,Avista Healthcare Public Acquisition Corp.,152.155.210.85,Sonair,CHF,353453207-4,$3.18
+957,Basic Industries,SYNL,NASDAQ,Synalloy Corporation,240.62.77.89,Sonair,RUB,873598468-6,$0.69
+958,Finance,VEACW,NASDAQ,Vantage Energy Acquisition Corp.,121.217.247.11,Flowdesk,COP,734735525-7,$0.11
+959,Capital Goods,EXP,NYSE,Eagle Materials Inc,183.178.115.121,Keylex,RUB,259776339-0,$6.57
+960,Finance,PFSI,NYSE,"PennyMac Financial Services, Inc.",182.15.217.130,Sub-Ex,IRR,215503926-3,$9.48
+961,Consumer Services,GOODO,NASDAQ,Gladstone Commercial Corporation,244.117.238.97,Tempsoft,IDR,114568946-9,$6.65
+962,Health Care,AXON          ,NYSE,Axovant Sciences Ltd.,134.54.32.96,It,EUR,040839329-7,$0.28
+963,Consumer Durables,BMS,NYSE,"Bemis Company, Inc.",246.47.248.250,Biodex,EUR,949715417-8,$4.04
+964,Technology,CLGX,NYSE,"CoreLogic, Inc.",156.169.245.121,Kanlam,PLN,324973868-9,$8.92
+965,Public Utilities,TEP,NYSE,"Tallgrass Energy Partners, LP",88.96.238.254,Viva,UAH,496975148-X,$2.39
+966,n/a,CACG,NASDAQ,ClearBridge All Cap Growth ETF,148.241.172.38,Sonsing,CNY,512296844-6,$5.80
+967,Transportation,SLTB,NYSE,Scorpio Bulkers Inc.,180.54.84.136,Bamity,CNY,582382818-7,$4.58
+968,Consumer Durables,RUSHA,NASDAQ,"Rush Enterprises, Inc.",156.108.212.79,Sub-Ex,EUR,513412544-9,$9.30
+969,Health Care,AMRN,NASDAQ,Amarin Corporation plc,31.120.64.75,Vagram,CHF,017605056-6,$4.92
+970,Technology,CHKP,NASDAQ,Check Point Software Technologies Ltd.,201.233.127.7,Duobam,PLN,482075966-3,$3.01
+971,Health Care,PLSE,NASDAQ,"Pulse Biosciences, Inc",180.75.219.8,Zathin,AMD,985820549-X,$0.08
+972,Health Care,GNVC,NASDAQ,"GenVec, Inc.",21.170.221.127,Tresom,EUR,082096242-2,$5.50
+973,Finance,AHPA,NASDAQ,Avista Healthcare Public Acquisition Corp.,85.54.169.39,Tin,IDR,168286887-7,$4.21
+974,Consumer Durables,KNL,NYSE,"Knoll, Inc.",157.199.76.46,Tresom,ILS,337382390-0,$8.34
+975,Health Care,ADMA,NASDAQ,ADMA Biologics Inc,234.169.6.96,Sub-Ex,EUR,003340906-4,$0.19
+976,n/a,MZF,NYSE,Managed Duration Investment Grade Municipal Fund,225.248.149.199,Redhold,ETB,485252149-2,$3.74
+977,n/a,MPCT,NASDAQ,iShares MSCI Global Impact ETF,94.197.136.13,Cardguard,IDR,289096950-9,$2.53
+978,n/a,FALN,NASDAQ,iShares Fallen Angels USD Bond ETF,9.111.212.139,Prodder,CNY,278204052-9,$5.54
+979,Consumer Services,SNHNI,NASDAQ,Senior Housing Properties Trust,68.161.55.93,Y-Solowarm,IDR,859875986-4,$9.20
+980,Capital Goods,NANO,NASDAQ,Nanometrics Incorporated,19.108.122.236,Alpha,KZT,192236560-2,$6.38
+981,Consumer Services,SOHOB,NASDAQ,Sotherly Hotels Inc.,15.195.197.252,Duobam,GTQ,224022535-1,$7.07
+982,n/a,GAINO,NASDAQ,Gladstone Investment Corporation,212.96.27.14,Stringtough,CNY,484491222-4,$1.33
+983,n/a,NBB,NYSE,Nuveen Build America Bond Fund,165.199.228.36,Tin,UAH,426266784-7,$5.35
+984,Health Care,ARAY,NASDAQ,Accuray Incorporated,166.155.155.43,Zaam-Dox,RUB,690510031-5,$1.29
+985,Miscellaneous,PBI,NYSE,Pitney Bowes Inc.,254.74.76.182,Fixflex,THB,138153922-X,$4.07
+986,Technology,VUZI,NASDAQ,Vuzix Corporation,89.122.2.15,Vagram,SEK,938244701-6,$2.07
+987,Consumer Durables,HI,NYSE,Hillenbrand Inc,66.168.69.214,Daltfresh,NIO,339472224-0,$0.23
+988,n/a,BNJ,NYSE,BlackRock New Jersey Municipal Income Trust,183.180.235.123,Mat Lam Tam,KGS,899274525-7,$0.00
+989,Capital Goods,VSLR,NYSE,"Vivint Solar, Inc.",131.17.5.2,Fixflex,CNY,041507410-X,$4.49
+990,n/a,VYMI,NASDAQ,Vanguard International High Dividend Yield ETF,78.222.183.181,Asoka,EUR,405643459-X,$3.98
+991,Consumer Services,BIG,NYSE,"Big Lots, Inc.",37.224.247.235,Tresom,EUR,493686192-8,$4.12
+992,Energy,EEP,NYSE,"Enbridge Energy, L.P.",40.153.89.251,Treeflex,CZK,959338170-8,$4.10
+993,Public Utilities,ECOL,NASDAQ,"US Ecology, Inc.",19.33.114.196,Bitchip,USD,643192200-X,$6.89
+994,Basic Industries,MEOH,NASDAQ,Methanex Corporation,161.252.34.167,Bitwolf,TJS,012783885-6,$6.77
+995,Consumer Services,RVEN,NASDAQ,"Reven Housing REIT, Inc.",128.53.199.186,Otcom,NGN,824235077-9,$2.22
+996,n/a,NXN,NYSE,Nuveen Insured New York Select Tax-Free Income Portfolio,241.106.108.37,Hatity,UZS,588347164-1,$4.35
+997,Technology,CNIT,NASDAQ,"China Information Technology, Inc.",8.93.147.90,Domainer,PLN,020086054-2,$7.05
+998,Energy,CYD,NYSE,China Yuchai International Limited,185.89.175.199,Holdlamis,IDR,610903984-5,$2.14
+999,Consumer Non-Durables,CZZ,NYSE,Cosan Limited,63.7.221.165,Pannier,JPY,478426319-5,$3.26
+1000,Consumer Non-Durables,FTFT,NASDAQ,Future FinTech Group Inc.,184.103.143.203,Zontrax,GTQ,145508810-2,$0.42
